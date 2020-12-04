@@ -5,18 +5,63 @@
         "link": "https://www.linkedin.com/in/zamil1/",
         "pic": "/employeepic2/zamil.jpg"
     },
+
     {
-        "name": "Ridwan Ahmed ",
-        "position": "Ops Manager",
-		"link": "https://www.linkedin.com/in/md-ridwan-ahmed-77aba737/",
-        "pic": "/employeepic2/ridwan.jpg"
+        "name": "Dipayon Debnath",
+        "position": "Developer",
+        "link": "https://www.linkedin.com/in/dipayondebnathdip/",
+        "pic": "/employeepic2/dip.jpg"
     },
+
     {
         "name": "Rezaul Evan",
         "position": "Project Manager",
         "link": "https://www.linkedin.com/in/mrhevan/",
         "pic": "/employeepic2/evan.jpg"
     },
+
+    
+    {
+        "name": "Ashraf Uz Zaman",
+        "position": "Developer",
+        "link": "https://www.linkedin.com/in/auz18/",
+        "pic": "/employeepic2/ashraf.jpg"
+    },
+
+    {
+        "name": "Mohaiminur Rahman",
+        "position": "Developer",
+        "link": "https://www.linkedin.com/in/nixonok/",
+        "pic": "/employeepic2/nixon.jpg"
+    },
+
+    {
+        "name": "Abdullah All Kafi",
+        "position": "Developer",
+        "link": "https://www.linkedin.com/in/abdullah-all-kafi-79aab7126/",
+        "pic": "/employeepic2/rasel.jpg"
+    },
+    {
+        "name": "Kawshick Biswas",
+        "position": "Artist",
+        "link": "https://www.linkedin.com/in/kawshick-biswas-48470714b/",
+        "pic": "/employeepic2/kawshick.jpg"
+    },
+
+    {
+        "name": "Jisan Haider",
+        "position": "Developer",
+        "link": "https://www.linkedin.com/in/jisanhaiderjoy/",
+        "pic": "/employeepic2/joy.jpg"
+    },  
+
+    {
+        "name": "Ridwan Ahmed ",
+        "position": "Ops Manager",
+		"link": "https://www.linkedin.com/in/md-ridwan-ahmed-77aba737/",
+        "pic": "/employeepic2/ridwan.jpg"
+    },
+
     {
         "name": "Ariful Islam",
         "position": "Business Developer",
@@ -36,33 +81,6 @@
         "position": "Officer Admin",
         "link": "https://www.linkedin.com/in/kader-mahmud-1ba9ba150/",
         "pic": "/employeepic2/kader.jpg"
-    },
-
-    
-    {
-        "name": "Ashraf Uz Zaman",
-        "position": "Developer",
-        "link": "https://www.linkedin.com/in/auz18/",
-        "pic": "/employeepic2/ashraf.jpg"
-    },
-    {
-        "name": "Abdullah All Kafi",
-        "position": "Developer",
-        "link": "https://www.linkedin.com/in/abdullah-all-kafi-79aab7126/",
-        "pic": "/employeepic2/rasel.jpg"
-    },
-
-    {
-        "name": "Dipayon Debnath",
-        "position": "Developer",
-        "link": "https://www.linkedin.com/in/dipayondebnathdip/",
-        "pic": "/employeepic2/dip.jpg"
-    },
-    {
-        "name": "Mohaiminur Rahman",
-        "position": "Developer",
-        "link": "https://www.linkedin.com/in/nixonok/",
-        "pic": "/employeepic2/nixon.jpg"
     },
     
     {
@@ -96,12 +114,7 @@
         "pic": "/employeepic2/opu.jpg"
     },
 
-    {
-        "name": "Jisan Haider",
-        "position": "Developer",
-        "link": "https://www.linkedin.com/in/jisanhaiderjoy/",
-        "pic": "/employeepic2/joy.jpg"
-    },  
+
               
     {
         "name": "Habibur Rahman",
@@ -139,12 +152,7 @@
         "link": "https://www.linkedin.com/in/tawheed-rony/",
         "pic": "/employeepic2/tawheed.jpg"
     },
-    {
-        "name": "Kawshick Biswas",
-        "position": "Artist",
-        "link": "https://www.linkedin.com/in/kawshick-biswas-48470714b/",
-        "pic": "/employeepic2/kawshick.jpg"
-    },
+
     {
         "name": "Sajal Golder",
         "position": "Artist",
