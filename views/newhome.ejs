@@ -34,6 +34,7 @@
   <!-- Template Main CSS File -->
   <link href="newsite/css/style.css" rel="stylesheet">
 
+
   <style>
     /* html {
   scroll-behavior: smooth;
@@ -646,20 +647,17 @@
           <p>Meet the team behind UGL</p>
         </div>
 
-        <div class="row teamDiv">
+        <div id="employeesList" class="row teamDiv">
 
 
 
 
 
           <% 
-         
-          var cnt=0;
-          var limit=8;
-          var seeMore = false;
-       
-          for (let employee of employees) { 
-             if(cnt<limit){
+              employees.forEach(function(employee, index) {
+
+                if(index < 8)
+                {
           %>
 
 
@@ -689,6 +687,7 @@
 
           <!--  -->
           <!--  -->
+
           <div id="row-team" class="col-lg-3 col-6" data-aos="fade-up" data-aos-delay="1">
             <div id="hideMember" class="member">
               <div>
@@ -699,32 +698,74 @@
                   <h4><%=employee.name%></h4>
                   <span><%=employee.position%></span>
                   <div class="social">
-                    <!-- <a href=" <%=employee.link%>" target="_blank"> <i class="fa fa-twitter"></i></a>
-                    <a href=" <%=employee.link%>" target="_blank"> <i class="fa fa-facebook"></i></a>
-                    <a href=" <%=employee.link%>" target="_blank"> <i class="fa fa-google-plus"></i></a> -->
                     <a href=" <%=employee.link%>" target="_blank"> <i class="fa fa-linkedin"></i></a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
+          
          <%   
-            cnt++;}
-          } 
+          
+          } });
           
           %>
          
         </div>
 
 
-        <button id="seeAllBtn" type="button" class="btn btn-success btn-lg btn-block see-more" >See All</button>
+        <button id="seeAllBtn" onclick="allSeeButton()" type="button" class="btn btn-success btn-lg btn-block see-more" >See All</button>
         <script>
-          document.getElementById("seeAllBtn").onclick = function() {
-           // console.log(jsonObjects.length) ;  
-            this.style.display = "none";
-      
-        };
-         
+          
+          function allSeeButton()
+          {
+                      var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+              if (this.readyState == 4 && this.status == 200) {
+                
+                let employeesList = JSON.parse(this.responseText);
+
+                for (let index = 8; index < employeesList.length; index++) {
+                  const employee = employeesList[index];
+
+                  let employeesNode = document.getElementById("employeesList");
+
+                  let lastNode = employeesNode.lastElementChild;
+                  lastNode.insertAdjacentHTML("afterend", `
+                  
+                  
+          <div id="row-team" class="col-lg-3 col-6" data-aos="fade-up" data-aos-delay="1">
+            <div id="hideMember" class="member">
+              <div>
+                <img src="/newsite/${employee.pic}" class="img-fluid employeePic">
+              </div>
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>${employee.name}</h4>
+                  <span>${employee.position}</span>
+                  <div class="social">
+                    <a href="${employee.link}" target="_blank"> <i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+                  
+                  `);
+                  // console.log(employeesNode.lastElementChild);
+                  
+                }
+
+                let seeAllButton = document.getElementById("seeAllBtn");
+                seeAllButton.style.display = "none";
+                window.location.href = "#team";
+                
+              }
+            };
+            xhttp.open("GET", "/employees_data", true);
+            xhttp.send();
+
+          }
          
 
          </script>

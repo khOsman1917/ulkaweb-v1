@@ -185,4 +185,14 @@ router.get('/', (req, res, next) => {
 });
 
 
+router.get('/employees_data', (req, res, next) => {
+
+  fs.readFile(employeesPath, (err, fileContent) => {
+
+    let employees = JSON.parse(fileContent);
+    // console.log(employees);
+  res.send(employees);
+  });
+});
+
 module.exports = router;
