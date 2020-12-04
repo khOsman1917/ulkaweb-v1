@@ -1,0 +1,134 @@
+
+  <div class="pimg1">
+    <div class="pcontact">
+      <br /><br /><br />
+      <b class="social"><a href="https://www.facebook.com/ulkagames/" target="_blank">f</a></b>
+      <b class="social"><a href="https://www.linkedin.com/company/ulkagames/" target="_blank">in</a></b>
+      <b class="social" onclick="showMail();">&#9993;</b>
+    </div>
+
+  </div>
+
+  <div class="overlay"></div>
+
+  <div class="mailForm">
+    <b style="color: white; font-size: 22px;">Say Something !</b><br>
+    <form class="contactForm" action="index.htm" method="post">
+      <input type="text" name="name" placeholder="Your Name">
+      <input type="text" name="email" placeholder="Your E-mail">
+      <textarea name="message" placeholder="Your Message"></textarea>
+      <b class="btn">Submit</b>
+      <b class="btn" onclick="hideMail();">Cancel</b>
+    </form>
+  </div>
+
+  <iframe class="gameViewer" src="" width="360px" height="640px"></iframe>
+  <div class="closeGame" onclick="CloseGame();">
+    <b>X</b>
+  </div>
+
+  <script>
+    let new_scroll_position = 0;
+    let last_scroll_position;
+    let header = document.getElementById("header");
+
+    window.addEventListener('scroll', function(e) {
+      last_scroll_position = window.scrollY;
+      if (window.scrollX > 0) window.scrollTo(0, last_scroll_position);
+
+      // Scrolling down
+      if (new_scroll_position < last_scroll_position && last_scroll_position >= header.offsetHeight) {
+        header.classList.remove("slideDown");
+        header.classList.add("slideUp");
+
+        // Scrolling up
+      } else if (new_scroll_position > last_scroll_position) {
+        header.classList.remove("slideUp");
+        header.classList.add("slideDown");
+      }
+
+      new_scroll_position = last_scroll_position;
+    });
+
+    function ShowOverlay() {
+      let overlay = document.getElementsByClassName('overlay')[0];
+      overlay.style.zIndex = "100";
+      overlay.style.opacity = "1";
+    }
+
+    function HideOverlay() {
+      let overlay = document.getElementsByClassName('overlay')[0];
+      overlay.style.zIndex = "-100";
+      overlay.style.opacity = "0";
+    }
+
+    function showMail() {
+      ShowOverlay();
+      let form = document.getElementsByClassName('mailForm')[0];
+      form.style.zIndex = "101";
+      form.style.opacity = "1";
+    }
+
+    function hideMail() {
+      HideOverlay();
+      let form = document.getElementsByClassName('mailForm')[0];
+      form.style.zIndex = "-101";
+      form.style.opacity = "0";
+    }
+
+    function ShowGame(gameName) {
+      ShowOverlay();
+      let gameView = document.getElementsByClassName('gameViewer')[0];
+      let closeBtn = document.getElementsByClassName('closeGame')[0];
+      gameView.style.opacity = "1";
+      gameView.style.zIndex = "200";
+      gameView.src = "SubGames/" + gameName + "/index.html";
+
+      closeBtn.style.opacity = "1";
+      closeBtn.style.zIndex = "201";
+    }
+
+    function CloseGame() {
+      HideOverlay();
+      let gameView = document.getElementsByClassName('gameViewer')[0];
+      let closeBtn = document.getElementsByClassName('closeGame')[0];
+      gameView.style.opacity = "0";
+      gameView.style.zIndex = "-200";
+      gameView.src = "";
+
+      closeBtn.style.opacity = "0";
+      closeBtn.style.zIndex = "-201";
+    }
+
+    function SmoothScroll(_target, _duration) {
+      window.scrollTo(0, 0);
+
+      let target = document.getElementsByClassName(_target)[0];
+      let targetPos = target.getBoundingClientRect().top;
+      let startPos = window.scrollY;
+      let dist = targetPos - startPos;
+      let startTime = null;
+
+      let animation = (_currentTime) => {
+        if (startTime == null) startTime = _currentTime;
+        let timeElapsed = _currentTime - startTime;
+        let run = Ease(timeElapsed, startPos, dist, _duration);
+        window.scrollTo(0, run);
+        if (timeElapsed < _duration) requestAnimationFrame(animation);
+      };
+
+      requestAnimationFrame(animation);
+    }
+
+    function Ease(time, startPos, dist, dur) {
+      time /= dur / 2;
+      if (time < 1) return dist / 2 * time * time + startPos;
+      time--;
+      return -dist / 2 * (time * (time - 2) - 1) + startPos;
+    }
+  </script>
+
+
+</body>
+
+</html>

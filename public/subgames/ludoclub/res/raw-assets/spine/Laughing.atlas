@@ -1,0 +1,34 @@
+
+Laughing.png
+size: 178,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+close_eye
+  rotate: false
+  xy: 151, 17
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 124, 11
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 124, 32
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1

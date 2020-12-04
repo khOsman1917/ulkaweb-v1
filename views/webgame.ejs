@@ -1,0 +1,388 @@
+
+<!DOCTYPE html></body>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta http-equiv="Access-Control-Allow-Origin" content="*">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>ULKA Games</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+
+
+
+  <!-- <div class="pimg1">
+    <div class="ptext">
+      <span class="border trans">
+      </span>
+    </div>
+  </div> -->
+
+
+  <section class="section section-dark thygames">
+    <h2 style="color:#6a9955;">Our Web Games</h2>
+    <!-- <p>
+      We make both <b style="color:#6a9955;">Web and Native</b> games in different genres. For our games we use various technologies - <b style="color:#6a9955;">Unity3D</b>, <b style="color:#6a9955;">Cocos Creator</b>,
+      <b style="color:#6a9955;">Cocos 2d-x</b>, even our own custom
+      engine in <b style="color:#6a9955;">Vanilla Javascript</b>.
+      Some of our games include:
+    </p> -->
+
+
+
+
+
+        <% for (var game of htmlgames) { %>
+    <table class="info gameInfo thygameInfo"   onclick="ShowGame('<%=game%>');">
+      <tr>
+        <td>
+          <div class="imgHolder"><img src="img/UlkaGameIcons/<%=game%>.png" /></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3><%=game%></h3>
+        </td>
+      </tr>
+      <tr>
+        <td>  <b class="btn" onclick="ShowGame('<%=game%>');">Play Game</b>   </td>
+      </tr>
+    </table>
+
+    <% } %>
+
+    <br><br>
+  </section>
+
+
+
+
+  <!-- <section class="section section-dark">
+    <h2 style="color:#6a9955;">Our Android Games</h2>
+
+    <% for (var game of androidgames) { %>
+    <table class="info gameInfo bigInfo"> 
+      <tr>
+        <td>
+          <div class="imgHolder">
+            
+            <a href="<%=game.link%>" target="_blank"> 
+              <img src="<%=game.pic%>"/>
+            </a> 
+            
+            </div>
+        </td>
+
+ 
+      </tr>
+      <tr>
+        <td>
+          <h3><%=game.name%></h3>
+        </td>
+      </tr>
+      <tr>
+          <td>
+
+              <a href="<%=game.link%>" target="_blank"> 
+                <b class="btn">Download</b>
+              </a> 
+          
+          </td>
+      </tr>
+
+    </table>
+    <% } %>
+    <br><br>
+    <center><a href="https://play.google.com/store/apps/developer?id=Ulka+Games" target="_blank">
+       <img class="googleplay" src="img/SiteImages/Google-Play-Store.png" width="220px" height="80px" /></a></center>
+    <br>
+  </section>
+ -->
+
+
+
+
+  <!-- <section class="section section-dark">
+
+     class="linkBtn"
+    <h2 style="color:#6a9955;">Moonfrog Games</h2>
+
+    <% for (var game of moonfroggames) { %>
+    <table class="info gameInfo bigInfo"> 
+      <tr>
+        <td>
+          <div class="imgHolder">
+            
+            <a href="<%=game.link%>" target="_blank"> 
+              <img src="<%=game.pic%>"/>
+            </a> 
+            
+            </div>
+        </td>
+
+ 
+      </tr>
+      <tr>
+        <td>
+          <h3><%=game.name%></h3>
+        </td>
+      </tr>
+      <tr>
+          <td>
+
+              <a href="<%=game.link%>" target="_blank"> 
+                <b class="btn">Download</b>
+              </a> 
+          
+          </td>
+      </tr>
+
+    </table>
+    <% } %>
+    <br><br>
+    <center><a class="linkBtn" href="https://play.google.com/store/apps/developer?id=Moonfrog&hl=en" target="_blank">Google Play</a></center>
+    <br>
+  </section>
+
+ -->
+
+
+
+
+
+
+
+
+
+
+
+  <!-- <section class="section section-dark">
+    <h2 style="color:#6a9955;">Moonfrog Games</h2>
+
+    <table class="info gameInfo bigInfo"> 
+      <tr>
+        <td>
+          <div class="imgHolder">
+            
+            <a href="https://play.google.com/store/apps/details?id=com.teenpatti.hd.gold&hl=en" target="_blank"> 
+              <img src="img/MFGameIcons/teenpatti.jpg"/>
+            </a> 
+            
+            </div>
+        </td>
+
+ 
+      </tr>
+      <tr>
+        <td>
+          <h3>Teen Patti Gold</h3>
+        </td>
+      </tr>
+      <tr>
+          <td>
+
+              <a href="https://play.google.com/store/apps/details?id=com.teenpatti.hd.gold&hl=en" target="_blank"> 
+                <b class="btn">Download</b>
+              </a> 
+          
+          </td>
+      </tr>
+
+    </table>
+
+    <br><br>
+    <center><a class="linkBtn" href="https://play.google.com/store/apps/developer?id=Moonfrog&hl=en" target="_blank">See More</a></center>
+    <br>
+  </section> -->
+
+
+
+
+  <!-- <div class="pimg2">
+    <div class="ptext">
+      <span class="border trans">
+        WE MAKE GAMES
+      </span>
+    </div>
+  </div> -->
+
+
+
+
+
+
+  <!-- <div class="pimg3">
+    <div class="ptext">
+      <span class="border trans">
+        VERY FUN GAMES
+      </span>
+    </div>
+  </div> -->
+
+<!--
+  <section class="section section-dark teamInfo">
+    <h2 style="color:#6a9955;">The Team</h2>
+    <table class="info">
+      <tr>
+        <td>
+          <div class="imgHolder"><img src="https://scontent.fdac14-1.fna.fbcdn.net/v/t1.0-9/1503911_10205705626106966_8341469453286564058_n.jpg?_nc_cat=108&_nc_oc=AQmr6lb8WRrzFNatpk6-rxbBkasU7ohbHjrd88eNFiyqKfRqimLw2flErFU4VeDs3hM&_nc_ht=scontent.fdac14-1.fna&oh=123b58d841c5a7b6507070f15aaa5366&oe=5DB8B627" /></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3>Zamil Rashid</h3>
+        </td>
+      </tr>
+      <tr>
+        <td><b>CEO</b></td>
+      </tr>
+       <tr>
+        <td><b class="social">f</b></td>
+      </tr> 
+    </table>
+
+
+  </section>
+
+-->
+
+  
+  <!-- <div class="pimg1">
+    <div class="pcontact">
+      <br /><br /><br />
+      <b class="social"><a href="https://www.facebook.com/ulkagames/" target="_blank">f</a></b>
+      <b class="social"><a href="https://www.linkedin.com/company/ulkagames/" target="_blank">in</a></b>
+      <b class="social" onclick="showMail();">&#9993;</b>
+    </div>
+
+  </div> -->
+
+  <div class="overlay"></div>
+
+  <!-- <div class="mailForm">
+    <b style="color: white; font-size: 22px;">Say Something !</b><br>
+    <form class="contactForm" action="index.htm" method="post">
+      <input type="text" name="name" placeholder="Your Name">
+      <input type="text" name="email" placeholder="Your E-mail">
+      <textarea name="message" placeholder="Your Message"></textarea>
+      <b class="btn">Submit</b>
+      <b class="btn" onclick="hideMail();">Cancel</b>
+    </form>
+  </div> -->
+
+  <iframe class="gameViewer" src="" width="360px" height="640px"></iframe>
+  <div class="closeGame" onclick="CloseGame();">
+    <b>X</b>
+  </div>
+
+  <script>
+    'use strict';
+    var new_scroll_position = 0;
+    var last_scroll_position;
+    var header = document.getElementById("header");
+
+    window.addEventListener('scroll', function(e) {
+      last_scroll_position = window.scrollY;
+      if (window.scrollX > 0) window.scrollTo(0, last_scroll_position);
+
+      // Scrolling down
+      if (new_scroll_position < last_scroll_position && last_scroll_position >= header.offsetHeight) {
+        header.classList.remove("slideDown");
+        header.classList.add("slideUp");
+
+        // Scrolling up
+      } else if (new_scroll_position > last_scroll_position) {
+        header.classList.remove("slideUp");
+        header.classList.add("slideDown");
+      }
+
+      new_scroll_position = last_scroll_position;
+    });
+
+    function ShowOverlay() {
+      var overlay = document.getElementsByClassName('overlay')[0];
+      overlay.style.zIndex = "100";
+      overlay.style.opacity = "1";
+    }
+
+    function HideOverlay() {
+      var overlay = document.getElementsByClassName('overlay')[0];
+      overlay.style.zIndex = "-100";
+      overlay.style.opacity = "0";
+    }
+
+    function showMail() {
+      ShowOverlay();
+      var form = document.getElementsByClassName('mailForm')[0];
+      form.style.zIndex = "101";
+      form.style.opacity = "1";
+    }
+
+    function hideMail() {
+      HideOverlay();
+      var form = document.getElementsByClassName('mailForm')[0];
+      form.style.zIndex = "-101";
+      form.style.opacity = "0";
+    }
+
+    function ShowGame(gameName) {
+      ShowOverlay();
+      var gameView = document.getElementsByClassName('gameViewer')[0];
+      var closeBtn = document.getElementsByClassName('closeGame')[0];
+      gameView.style.opacity = "1";
+      gameView.style.zIndex = "200";
+      gameView.src = "subgames/" + gameName + "/index.html";
+
+      closeBtn.style.opacity = "1";
+      closeBtn.style.zIndex = "201";
+    }
+
+    function CloseGame() {
+      HideOverlay();
+      var gameView = document.getElementsByClassName('gameViewer')[0];
+      var closeBtn = document.getElementsByClassName('closeGame')[0];
+      gameView.style.opacity = "0";
+      gameView.style.zIndex = "-200";
+      gameView.src = "";
+
+      closeBtn.style.opacity = "0";
+      closeBtn.style.zIndex = "-201";
+    }
+
+    function SmoothScroll(_target, _duration) {
+      window.scrollTo(0, 0);
+
+      var target = document.getElementsByClassName(_target)[0];
+      var targetPos = target.getBoundingClientRect().top;
+      var startPos = window.scrollY;
+      var dist = targetPos - startPos;
+      var startTime = null;
+
+      var animation = function(_currentTime) {
+        if (startTime == null) startTime = _currentTime;
+        var timeElapsed = _currentTime - startTime;
+        var run = Ease(timeElapsed, startPos, dist, _duration);
+        window.scrollTo(0, run);
+        if (timeElapsed < _duration) requestAnimationFrame(animation);
+      };
+
+      requestAnimationFrame(animation);
+    }
+
+    function Ease(time, startPos, dist, dur) {
+      time /= dur / 2;
+      if (time < 1) return dist / 2 * time * time + startPos;
+      time--;
+      return -dist / 2 * (time * (time - 2) - 1) + startPos;
+    }
+  </script>
+
+
+</body>
+
+</html>

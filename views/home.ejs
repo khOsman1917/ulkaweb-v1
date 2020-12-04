@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+</body>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta http-equiv="Access-Control-Allow-Origin" content="*">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ULKA Games</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+
+    <header class="header-navigation" id="header">
+        <table class="logoHolder">
+            <tr>
+                <td>
+                    <a href="/"> <img class="logo" src="logo/logo_0.png"> </a>
+                </td>
+                <td>
+                    <a href="/">
+                        <p class="name">ULKA GAMES</p>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <!-- <td><a class="sub">Every Kilobyte Matters...Just like You</a></td> -->
+            </tr>
+        </table>
+        <nav class="menuItems">
+            <b class="btn"> <a href="/">Games</a></b>
+            <b class="btn"> <a href="/about">About Us</a></b>
+            <b class="btn"> <a href="https://www.ulka.games/bkash-privacy-policy">Privacy Policy</a></b>
+
+
+            <!-- <b class="btn" onclick="SmoothScroll('thygames', 500);">Games</b>
+      <b class="btn" onclick="SmoothScroll('teamInfo', 500);">About</b> -->
+            <!-- <b class="btn" onclick="SmoothScroll('pcontact', 500);">Contact</b>
+      <b class="btn"> <a href="/login"> Login</a></b> -->
+        </nav>
+    </header>
+
+    <style>
+        a:visited {
+            color: #ffffff;
+        }
+
+        a:link {
+            color: #ffffff;
+        }
+
+        a:link {
+            text-decoration: none;
+        }
+    </style>
+
+
+    <!-- <div class="pimg1">
+    <div class="ptext">
+      <span class="border trans">
+      </span>
+    </div>
+  </div> -->
+
+    <br><br>
+
+
+    <section class="section section-dark">
+        <h2 style="color:#6a9955;" id="cardGameName">Our Android Games</h2>
+
+        <% for (var game of androidgames) { %>
+          <!--ADDA-->
+        <table class="info gameInfo bigInfo">
+            <tr>
+                <td>
+                    <div class="imgHolder">
+
+                        <a href="<%=game.link%>" target="_blank" onclick="AnalyticsFunction('Tash')">
+                            <img src="<%=game.pic%>" />
+                        </a>
+
+                    </div>
+                </td>
+
+
+            </tr>
+            <tr>
+                <td>
+                    <h2 style="padding-top: 10px;
+                    margin-bottom: -20px;"><%=game.name%></h2>
+                </td>
+            </tr>
+        </table>
+        <!--ADDA-->
+
+        <% } %>
+        <!-- <br><br>
+        <center><a href="https://play.google.com/store/apps/developer?id=Ulka+Games" target="_blank">
+                <img class="googleplay" src="img/SiteImages/Google-Play-Store.png" width="220px" height="80px" /></a>
+        </center>
+        <br> -->
+    </section>
+
+
+
+    <section class="section section-dark webText">
+        <!-- <h2 style="color:#6a9955;">Hello World :)</h2> -->
+        <p id="TashGameText">
+
+            <b>*Play Offline* *Best Graphics* *Best BOTS* </b> <br>
+            <br> DOWNLOAD & PLAY <br> <br>
+
+            ADDA | 29 | Sholo Guti Gold | DoTennPanch | Hazari Gold | Call Break | Classic Solitaire | 16 Guti
+
+
+        </p>
+
+    </section>
+
+
+    <section class="section section-dark thygames">
+        <h2 style="color:#6a9955;">Our Web Games</h2>
+        <!-- <p>
+      We make both <b style="color:#6a9955;">Web and Native</b> games in different genres. For our games we use various technologies - <b style="color:#6a9955;">Unity3D</b>, <b style="color:#6a9955;">Cocos Creator</b>,
+      <b style="color:#6a9955;">Cocos 2d-x</b>, even our own custom
+      engine in <b style="color:#6a9955;">Vanilla Javascript</b>.
+      Some of our games include:
+    </p> -->
+
+
+
+
+        <table class="info gameInfo thygameInfo"   onclick="teenPattiLoad()">
+      <tr>
+        <td>
+            <div class="imgHolder">  <img src="img/UlkaGameIcons/tpg.webp" /> </div> 
+         
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3>Teen Patti Gold</h3>
+        </td>
+      </tr>
+      <tr>
+        <td>  <b class="btn"  onclick="teenPattiLoad()" >Play Game</b>  </td>
+      </tr>
+    </table>
+
+<!-- last------------------------------------
+
+    
+        <table class="info gameInfo thygameInfo" onclick="teenPattiLoad()">
+            <tr>
+                <td>
+                    <div class="imgHolder"> <img src="img/UlkaGameIcons/teenpatti.png" /> </div>
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Teen Patti Gold</h3>
+                </td>
+            </tr>
+            <tr>
+                <td> <b class="btn" onclick="teenPattiLoad()">Play Game</b> </td>
+            </tr>
+        </table> -->
+
+
+        <table class="info gameInfo thygameInfo" onclick="LudoClubLoad()">
+            <tr>
+                <td>
+                    <div class="imgHolder"> <img src="img/UlkaGameIcons/ludo club.png" /> </div>
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Ludo Club</h3>
+                </td>
+            </tr>
+            <tr>
+                <td> <b class="btn" onclick="LudoClubLoad()">Play Game</b> </td>
+            </tr>
+        </table>
+
+        <% for (var game of htmlgames) { %>
+        <table class="info gameInfo thygameInfo" onclick="ShowGame('<%=game%>');">
+            <tr>
+                <td>
+                    <div class="imgHolder"><img src="img/UlkaGameIcons/<%=game%>.png" /></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3><%=game%></h3>
+                </td>
+            </tr>
+            <tr>
+                <td> <b class="btn" onclick="ShowGame('<%=game%>');">Play Game</b> </td>
+            </tr>
+        </table>
+
+        <% } %>
+
+        <br><br>
+    </section>
+
+
+    <section class="section section-dark webText">
+        <!-- <h2 style="color:#6a9955;">Hello World :)</h2> -->
+        <p style="font-size:20px">
+
+            These games are free to play. You can buy game credits from us to use premium features, such as power ups
+            and other unlocks.
+        </p>
+
+    </section>
+
+
+
+
+
+
+
+    <!-- <section class="section section-dark">
+
+     class="linkBtn"
+    <h2 style="color:#6a9955;">Moonfrog Games</h2>
+
+    <% for (var game of moonfroggames) { %>
+    <table class="info gameInfo bigInfo"> 
+      <tr>
+        <td>
+          <div class="imgHolder">
+            
+            <a href="<%=game.link%>" target="_blank"> 
+              <img src="<%=game.pic%>"/>
+            </a> 
+            
+            </div>
+        </td>
+
+ 
+      </tr>
+      <tr>
+        <td>
+          <h3><%=game.name%></h3>
+        </td>
+      </tr>
+      <tr>
+          <td>
+
+              <a href="<%=game.link%>" target="_blank"> 
+                <b class="btn">Download</b>
+              </a> 
+          
+          </td>
+      </tr>
+
+    </table>
+    <% } %>
+    <br><br>
+    <center><a class="linkBtn" href="https://play.google.com/store/apps/developer?id=Moonfrog&hl=en" target="_blank">Google Play</a></center>
+    <br>
+  </section>
+
+ -->
+
+
+
+
+
+
+
+
+
+
+
+    <!-- <section class="section section-dark">
+    <h2 style="color:#6a9955;">Moonfrog Games</h2>
+
+    <table class="info gameInfo bigInfo"> 
+      <tr>
+        <td>
+          <div class="imgHolder">
+            
+            <a href="https://play.google.com/store/apps/details?id=com.teenpatti.hd.gold&hl=en" target="_blank"> 
+              <img src="img/MFGameIcons/teenpatti.jpg"/>
+            </a> 
+            
+            </div>
+        </td>
+
+ 
+      </tr>
+      <tr>
+        <td>
+          <h3>Teen Patti Gold</h3>
+        </td>
+      </tr>
+      <tr>
+          <td>
+
+              <a href="https://play.google.com/store/apps/details?id=com.teenpatti.hd.gold&hl=en" target="_blank"> 
+                <b class="btn">Download</b>
+              </a> 
+          
+          </td>
+      </tr>
+
+    </table>
+
+    <br><br>
+    <center><a class="linkBtn" href="https://play.google.com/store/apps/developer?id=Moonfrog&hl=en" target="_blank">See More</a></center>
+    <br>
+  </section> -->
+
+
+
+
+    <!-- <div class="pimg2">
+    <div class="ptext">
+      <span class="border trans">
+        WE MAKE GAMES
+      </span>
+    </div>
+  </div> -->
+
+
+
+
+
+
+    <!-- <div class="pimg3">
+    <div class="ptext">
+      <span class="border trans">
+        VERY FUN GAMES
+      </span>
+    </div>
+  </div> -->
+
+    <!--
+  <section class="section section-dark teamInfo">
+    <h2 style="color:#6a9955;">The Team</h2>
+    <table class="info">
+      <tr>
+        <td>
+          <div class="imgHolder"><img src="https://scontent.fdac14-1.fna.fbcdn.net/v/t1.0-9/1503911_10205705626106966_8341469453286564058_n.jpg?_nc_cat=108&_nc_oc=AQmr6lb8WRrzFNatpk6-rxbBkasU7ohbHjrd88eNFiyqKfRqimLw2flErFU4VeDs3hM&_nc_ht=scontent.fdac14-1.fna&oh=123b58d841c5a7b6507070f15aaa5366&oe=5DB8B627" /></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3>Zamil Rashid</h3>
+        </td>
+      </tr>
+      <tr>
+        <td><b>CEO</b></td>
+      </tr>
+       <tr>
+        <td><b class="social">f</b></td>
+      </tr> 
+    </table>
+
+
+  </section>
+
+-->
+
+
+    <div class="pimg1">
+        <div class="pcontact">
+            <br />
+            <b class="social"><a href="https://www.facebook.com/ulkagames/" target="_blank">f</a></b>
+            <b class="social"><a href="https://www.linkedin.com/company/ulkagames/" target="_blank">in</a></b>
+            <b class="social" onclick="showMail();">&#9993;</b>
+
+            <p style="color: #ffffff"> Copyright 2019 &copy; Ulka Games Limited </p>
+        </div>
+
+    </div>
+
+    <div class="overlay"></div>
+
+    <div class="mailForm">
+        <b style="color: white; font-size: 22px;">Say Something !</b><br>
+        <form class="contactForm" action="index.htm" method="post">
+            <input type="text" name="name" placeholder="Your Name">
+            <input type="text" name="email" placeholder="Your E-mail">
+            <textarea name="message" placeholder="Your Message"></textarea>
+            <b class="btn">Submit</b>
+            <b class="btn" onclick="hideMail();">Cancel</b>
+        </form>
+    </div>
+
+    <iframe class="gameViewer" src="" width="360px" height="640px"></iframe>
+
+    <iframe id="teenPattiGameViewer" class="teenpatiigameViewer" src="" width="800px" height="615px"></iframe>
+
+    <div class="closeGame" onclick="CloseGame();">
+        <b>X</b>
+    </div>
+
+    <script>
+        'use strict';
+
+
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-147224673-1', 'auto');
+        ga('send', 'pageview');
+
+
+
+        var new_scroll_position = 0;
+        var last_scroll_position;
+        let teenpattiNodeActive = false;
+        var header = document.getElementById("header");
+
+        window.addEventListener('scroll', function (e) {
+            last_scroll_position = window.scrollY;
+            if (window.scrollX > 0) window.scrollTo(0, last_scroll_position);
+
+            // Scrolling down
+            if (new_scroll_position < last_scroll_position && last_scroll_position >= header.offsetHeight) {
+                header.classList.remove("slideDown");
+                header.classList.add("slideUp");
+
+                // Scrolling up
+            } else if (new_scroll_position > last_scroll_position) {
+                header.classList.remove("slideUp");
+                header.classList.add("slideDown");
+            }
+
+            new_scroll_position = last_scroll_position;
+        });
+
+        function ShowOverlay() {
+            var overlay = document.getElementsByClassName('overlay')[0];
+            overlay.style.zIndex = "100";
+            overlay.style.opacity = "1";
+        }
+
+        function HideOverlay() {
+            var overlay = document.getElementsByClassName('overlay')[0];
+            overlay.style.zIndex = "-100";
+            overlay.style.opacity = "0";
+        }
+
+        function showMail() {
+            ShowOverlay();
+            var form = document.getElementsByClassName('mailForm')[0];
+            form.style.zIndex = "101";
+            form.style.opacity = "1";
+        }
+
+        function hideMail() {
+            HideOverlay();
+            var form = document.getElementsByClassName('mailForm')[0];
+            form.style.zIndex = "-101";
+            form.style.opacity = "0";
+        }
+
+        function ShowGame(gameName) {
+            ShowOverlay();
+            var gameView = document.getElementsByClassName('gameViewer')[0];
+            var closeBtn = document.getElementsByClassName('closeGame')[0];
+            gameView.style.opacity = "1";
+            gameView.style.zIndex = "200";
+            gameView.src = "subgames/" + gameName + "/index.html";
+
+            closeBtn.style.opacity = "1";
+            closeBtn.style.zIndex = "201";
+
+            AnalyticsFunction(gameName);
+
+
+        }
+
+        function CloseGame() {
+            HideOverlay();
+            // var gameView = document.getElementsByClassName('gameViewer')[0];
+            // gameView.style.opacity = "0";
+            // gameView.style.zIndex = "-200";
+            // gameView.src = "";
+
+
+            if (!teenpattiNodeActive) {
+                let gameView = document.getElementsByClassName('gameViewer')[0];
+                gameView.style.opacity = "0";
+                gameView.style.zIndex = "-200";
+                gameView.src = "";
+            }
+
+            else {
+                let gameView = document.getElementById('teenPattiGameViewer');
+                gameView.style.opacity = "0";
+                gameView.style.zIndex = "-200";
+                gameView.src = "";
+                teenpattiNodeActive = false;
+            }
+
+
+
+            var closeBtn = document.getElementsByClassName('closeGame')[0];
+            closeBtn.style.opacity = "0";
+            closeBtn.style.zIndex = "-201";
+        }
+
+        function SmoothScroll(_target, _duration) {
+            window.scrollTo(0, 0);
+
+            var target = document.getElementsByClassName(_target)[0];
+            var targetPos = target.getBoundingClientRect().top;
+            var startPos = window.scrollY;
+            var dist = targetPos - startPos;
+            var startTime = null;
+
+            var animation = function (_currentTime) {
+                if (startTime == null) startTime = _currentTime;
+                var timeElapsed = _currentTime - startTime;
+                var run = Ease(timeElapsed, startPos, dist, _duration);
+                window.scrollTo(0, run);
+                if (timeElapsed < _duration) requestAnimationFrame(animation);
+            };
+
+            requestAnimationFrame(animation);
+        }
+
+        function Ease(time, startPos, dist, dur) {
+            time /= dur / 2;
+            if (time < 1) return dist / 2 * time * time + startPos;
+            time--;
+            return -dist / 2 * (time * (time - 2) - 1) + startPos;
+        }
+
+
+
+        let isMobile = {
+            Android: function () {
+                return navigator.userAgent.match(/Android/i);
+            },
+            BlackBerry: function () {
+                return navigator.userAgent.match(/BlackBerry/i);
+            },
+            iOS: function () {
+                return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+            },
+            Opera: function () {
+                return navigator.userAgent.match(/Opera Mini/i);
+            },
+            Windows: function () {
+                return navigator.userAgent.match(/IEMobile/i);
+            },
+            any: function () {
+                return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+            }
+        };
+
+
+        function LudoClubLoad() {
+            location.replace("/ludoclub");
+            AnalyticsFunction("Ludo_Club");
+        }
+
+
+        function teenPattiLoad() {
+
+            location.replace("/teenpattigold")
+
+            AnalyticsFunction("Teen_Patti_Gold");
+                ShowOverlay();
+                teenpattiNodeActive = true;
+                let gameView = document.getElementById("teenPattiGameViewer");
+                let closeBtn = document.getElementsByClassName('closeGame')[0];
+                gameView.style.opacity = "1";
+                gameView.style.zIndex = "200";
+                gameView.src = "https://ls-3.teenpattigold.com/web?src=ulka";
+                closeBtn.style.opacity = "1";
+                closeBtn.style.zIndex = "201";
+
+
+                gameView.onload = () => {
+
+            if (isMobile.any() || isMobile.iOS()) {
+
+
+              if (gameView.requestFullscreen) {
+                gameView.requestFullscreen();
+              } else if (gameView.mozRequestFullScreen) { /* Firefox */
+                gameView.mozRequestFullScreen();
+              } else if (gameView.webkitRequestFullscreen) { /* Chrome, Safari & Opera */
+                gameView.webkitRequestFullscreen();
+              } else if (gameView.msRequestFullscreen) { /* IE/Edge */
+                gameView.msRequestFullscreen();
+              }
+
+              gameView.width = "100%";
+              gameView.height = "100%";
+            }
+
+
+            };
+
+
+        }
+
+
+
+        function AnalyticsFunction(data) {
+            ga('send', 'event', 'UlkaGames_' + data);
+
+
+            console.log("analy: " + 'UlkaGames_' + data);
+        }
+    </script>
+
+
+
+
+</body>
+
+</html>

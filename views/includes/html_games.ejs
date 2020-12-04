@@ -1,0 +1,110 @@
+'use strict';
+<section class="section section-dark thygames">
+    <h2 style="color:#6a9955;">Our Games</h2>
+    <p>
+      We make both <b style="color:#6a9955;">Web and Native</b> games in different genres. For our games we use various technologies - <b style="color:#6a9955;">Unity3D</b>, <b style="color:#6a9955;">Cocos Creator</b>,
+      <b style="color:#6a9955;">Cocos 2d-x</b>, even our own custom
+      engine in <b style="color:#6a9955;">Vanilla Javascript</b>.
+      Some of our games include:
+    </p>
+
+
+    <% for (let game of htmlgames) { %>
+    <table class="info gameInfo thygameInfo"   onclick="ShowGame('<%=game%>');">
+      <tr>
+        <td>
+          <div class="imgHolder"><img src="img/UlkaGameIcons/<%=game%>.png" /></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3><%=game%></h3>
+        </td>
+      </tr>
+      <tr>
+        <td><b class="btn" onclick="ShowGame('<%=game%>');">Play Game</b></td>
+      </tr>
+    </table>
+
+    <% } %>
+
+    <!-- <table class="info gameInfo thygameInfo"   onclick="ShowGame('LAFAO');">
+      <tr>
+        <td>
+          <div class="imgHolder"><img src="img/UlkaGameIcons/lafao.png" /></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3>LAFAO</h3>
+        </td>
+      </tr>
+      <tr>
+        <td><b class="btn" onclick="ShowGame('LAFAO');">Play Game</b></td>
+      </tr>
+    </table> -->
+
+
+    <!-- <table class="info gameInfo thygameInfo">
+      <tr>
+        <td>
+          <div class="imgHolder"><img src="img/UlkaGameIcons/jm.png" /></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3>Jungle Merge</h3>
+        </td>
+      </tr>
+      <tr>
+        <td><b class="btn"></b></td>
+      </tr>
+    </table>
+    <table class="info gameInfo thygameInfo">
+      <tr>
+        <td>
+          <div class="imgHolder"><img src="img/UlkaGameIcons/cm.png" /></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3>City Merge</h3>
+        </td>
+      </tr>
+      <tr>
+        <td><b class="btn"></b></td>
+      </tr>
+    </table>
+    <table class="info gameInfo thygameInfo">
+      <tr>
+        <td>
+          <div class="imgHolder"><img src="img/UlkaGameIcons/wb.png" /></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3>Word Battle</h3>
+        </td>
+      </tr>
+      <tr>
+        <td><b class="btn"></b></td>
+      </tr>
+    </table>
+    <table class="info gameInfo thygameInfo">
+      <tr>
+        <td>
+          <div class="imgHolder"><img src="img/UlkaGameIcons/tcrt.png" /></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3>Tiny Cricket</h3>
+        </td>
+      </tr>
+      <tr>
+        <td><b class="btn"></b></td>
+      </tr>
+    </table> -->
+
+    <br><br>
+  </section>

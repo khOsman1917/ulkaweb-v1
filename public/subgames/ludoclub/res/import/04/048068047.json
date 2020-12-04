@@ -1,0 +1,7052 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loader-9",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1733,
+        816,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "box_)012",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        843,
+        1434,
+        76,
+        76
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        76,
+        76
+      ],
+      "capInsets": [
+        19,
+        17,
+        21,
+        18
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Store_fifth_panel_pouch",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1533,
+        388,
+        58,
+        74
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        74
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "full_star_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1747,
+        366,
+        59,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        59,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_coin_icon_big",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        440,
+        1561,
+        53,
+        53
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        53,
+        53
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "button_green_new",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        241,
+        1415,
+        198,
+        84
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        198,
+        84
+      ],
+      "capInsets": [
+        20,
+        21,
+        25,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tick_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        152,
+        1990,
+        42,
+        39
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        42,
+        41
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_FTUE_Button_Glow",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        941,
+        373,
+        216,
+        214
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        216,
+        214
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_get_rewards_white_tick_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1904,
+        477,
+        34,
+        27
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        27
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_redtag_on_lobby_button",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        688,
+        287,
+        38,
+        28
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        38,
+        28
+      ],
+      "rotated": 1,
+      "capInsets": [
+        14,
+        0,
+        14,
+        16
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "play_with_friends_icon",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        362,
+        772,
+        189,
+        149
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        195,
+        157
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_hidden_badge_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        699,
+        206,
+        218,
+        218
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        218,
+        218
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_rewards_player_promoted_info_banner_small_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        428,
+        1661,
+        43,
+        74
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        43,
+        74
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_referral_icon_02",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1514,
+        742,
+        67,
+        72
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        72
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "profile_info_pannel_dark_top_and_bottom",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1734,
+        889,
+        49,
+        52
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        49,
+        52
+      ],
+      "rotated": 1,
+      "capInsets": [
+        19,
+        20,
+        19,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "gift",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        713,
+        535,
+        56,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        56,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_edit_profile_entry_box_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1568,
+        889,
+        51,
+        51
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        51,
+        51
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "topHudBg",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        1,
+        962,
+        1050,
+        98
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1050,
+        98
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_transparent_disable_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1533,
+        230,
+        78,
+        82
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        82
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "gift_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1371,
+        451,
+        142,
+        149
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        142,
+        149
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_red_banner_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1895,
+        1,
+        73,
+        28
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        73,
+        28
+      ],
+      "rotated": 1,
+      "capInsets": [
+        5,
+        6,
+        7,
+        11
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_platinum_badge_big",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        533,
+        73,
+        164,
+        164
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        164,
+        164
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loader-2",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1514,
+        816,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Coin_stack_disable_05",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        240,
+        1585,
+        186,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        186,
+        100
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coin_stack_02",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        101,
+        1546,
+        137,
+        97
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        137,
+        97
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Arrow_1",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1904,
+        513,
+        28,
+        27
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        30,
+        29
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_rewards_player_promoted_info_banner_big",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        554,
+        1978,
+        48,
+        47
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        48,
+        47
+      ],
+      "rotated": 1,
+      "capInsets": [
+        10,
+        10,
+        10,
+        10
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "button_red_new",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        254,
+        1240,
+        200,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "rewardDarkBg",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1173,
+        694,
+        123,
+        31
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        123,
+        31
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_referral_rewards_coin_stack_front_left_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1845,
+        486,
+        57,
+        61
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        57,
+        61
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Store_redline",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        385,
+        342,
+        2,
+        2
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Badge4",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        613,
+        1869,
+        99,
+        107
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        99,
+        107
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "button_blue_new",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        651,
+        1296,
+        198,
+        84
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        198,
+        84
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "lobbySmallTrophy",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        885,
+        774,
+        25,
+        22
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        25,
+        22
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_gems_big_disable_05",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        684,
+        899,
+        224,
+        198
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        224,
+        198
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_gold_badge_big",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        532,
+        559,
+        152,
+        163
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        152,
+        163
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "selected_button_01_1_v2",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        276,
+        954,
+        240,
+        30
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        240,
+        30
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loader-1",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1515,
+        448,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "happy_emo",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1687,
+        302,
+        68,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        80,
+        70
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Coin_stack_04",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1196,
+        885,
+        95,
+        55
+      ],
+      "offset": [
+        -3,
+        0
+      ],
+      "originalSize": [
+        101,
+        101
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_daily_bonus_coin_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        171,
+        342,
+        310,
+        212
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        310,
+        212
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_referral_rewards_Profile_frame_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        771,
+        535,
+        145,
+        147
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        145,
+        147
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "smaller_square01_button",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        456,
+        1291,
+        46,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        49
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_gems_big_disable_06",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        1,
+        451,
+        316,
+        235
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        316,
+        235
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_left_arrow_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        610,
+        1720,
+        23,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        23,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "block_icon",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        911,
+        914,
+        24,
+        26
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        24,
+        26
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "timerBg",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1159,
+        373,
+        230,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        230,
+        49
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "17",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1209,
+        607,
+        87,
+        88
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        87,
+        88
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_get_rewards_blue_play_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        156,
+        920,
+        20,
+        27
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        20,
+        27
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "small_trophy",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1533,
+        314,
+        74,
+        72
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        74,
+        72
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_lobby_badge_icon",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        276,
+        818,
+        102,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        102,
+        86
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loader-5",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1657,
+        670,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "big_yellow_button_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1221,
+        233,
+        226,
+        216
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        226,
+        216
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fb_native_button",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        613,
+        346,
+        257,
+        48
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        257,
+        48
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_rewards_player_info_banner_blue",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1770,
+        430,
+        60,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        64
+      ],
+      "capInsets": [
+        18,
+        14,
+        18,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_referral_rewards_Profile_frame_back_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        918,
+        589,
+        135,
+        135
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        135,
+        135
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "help_icon",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        494,
+        1720,
+        34,
+        53
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        53
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pop_up_container_scale9",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        613,
+        605,
+        156,
+        158
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        158,
+        158
+      ],
+      "capInsets": [
+        30,
+        30,
+        30,
+        30
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Badge5",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        506,
+        1515,
+        130,
+        108
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        130,
+        108
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Coin_stack_disable_02",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        101,
+        1447,
+        137,
+        97
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        137,
+        97
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludoclub_leaderboard_header",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        417,
+        287,
+        269,
+        57
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        269,
+        57
+      ],
+      "capInsets": [
+        34,
+        31,
+        41,
+        16
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "selected_button_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1849,
+        88,
+        92,
+        85
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        92,
+        85
+      ],
+      "rotated": 1,
+      "capInsets": [
+        20,
+        20,
+        20,
+        25
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shadow_star",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        315,
+        1986,
+        46,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        44
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "2ndPlace",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        834,
+        1586,
+        87,
+        97
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        95,
+        97
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo-ig_daily_bonus_coin_gems_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        417,
+        73,
+        300,
+        212
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        300,
+        212
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_gems_big_03",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        101,
+        1258,
+        138,
+        187
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        138,
+        187
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_copper_badge_big",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        532,
+        405,
+        152,
+        163
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        152,
+        163
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loader-13",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1583,
+        743,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_gems_big_disable_04",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        638,
+        1576,
+        192,
+        194
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        192,
+        194
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_gems_big_04",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        647,
+        1382,
+        192,
+        194
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        192,
+        194
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coin_stack_04",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        714,
+        1914,
+        180,
+        106
+      ],
+      "offset": [
+        -4,
+        0
+      ],
+      "originalSize": [
+        188,
+        106
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fb_profile_container_v2",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1648,
+        431,
+        60,
+        67
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        64,
+        67
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_referral_giftbox_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        967,
+        1,
+        299,
+        211
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        299,
+        211
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_gems_big_06",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        1,
+        214,
+        316,
+        235
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        316,
+        235
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Coin_stack_02",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1377,
+        859,
+        73,
+        55
+      ],
+      "offset": [
+        1,
+        -2
+      ],
+      "originalSize": [
+        101,
+        101
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "big_green_button_01_pressed",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1621,
+        88,
+        226,
+        212
+      ],
+      "offset": [
+        0,
+        2
+      ],
+      "originalSize": [
+        226,
+        216
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "big_blue_button_01_pressed",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        385,
+        564,
+        226,
+        206
+      ],
+      "offset": [
+        0,
+        -1
+      ],
+      "originalSize": [
+        226,
+        216
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bluuton_grreen_01_pressed",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        240,
+        1501,
+        198,
+        82
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        198,
+        84
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_rewards_player_info_banner_big",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        769,
+        893,
+        48,
+        47
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        48,
+        47
+      ],
+      "capInsets": [
+        10,
+        10,
+        10,
+        10
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "profile_popup",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1609,
+        365,
+        67,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        64
+      ],
+      "capInsets": [
+        20,
+        22,
+        21,
+        23
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "giftOpen",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1,
+        758,
+        207,
+        160
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        207,
+        160
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_blue_disable_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1266,
+        782,
+        78,
+        82
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        82
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Message_banner_arrow_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        364,
+        900,
+        30,
+        16
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        30,
+        16
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loader-3",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1587,
+        816,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_referral_button_people_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1895,
+        423,
+        38,
+        52
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        38,
+        52
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Store_info_panel_pressed",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1206,
+        696,
+        58,
+        110
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        110
+      ],
+      "capInsets": [
+        22,
+        20,
+        22,
+        20
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coin_stack_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        101,
+        1645,
+        129,
+        93
+      ],
+      "offset": [
+        -9,
+        0
+      ],
+      "originalSize": [
+        147,
+        93
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "lobbyContainer",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1903,
+        667,
+        36,
+        31
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        36,
+        31
+      ],
+      "rotated": 1,
+      "capInsets": [
+        11,
+        11,
+        11,
+        11
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "profile_info_pannel_light_top_and_bottom",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1806,
+        797,
+        49,
+        52
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        49,
+        52
+      ],
+      "capInsets": [
+        19,
+        20,
+        19,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_get_rewards_blue_circle_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1802,
+        743,
+        52,
+        52
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        52,
+        52
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Badge2",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        101,
+        1889,
+        99,
+        107
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        99,
+        107
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "blue_button_01_pressed",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        319,
+        618,
+        198,
+        82
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        198,
+        84
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "aaaasasasasa",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        967,
+        214,
+        252,
+        157
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        252,
+        157
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_badge_place_holder",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        101,
+        962,
+        144,
+        153
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        144,
+        153
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "LUDO_IG_plus-sign_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1514,
+        889,
+        52,
+        51
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        52,
+        51
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Badge3",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        512,
+        1869,
+        99,
+        107
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        99,
+        107
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_lobby_button",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        256,
+        986,
+        249,
+        109
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        249,
+        109
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_clapper_pressed_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1793,
+        562,
+        58,
+        61
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        61
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Store_back_panel_side",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        1,
+        1,
+        70,
+        696
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        70,
+        696
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Store_info_panel",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1376,
+        602,
+        58,
+        110
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        110
+      ],
+      "rotated": 1,
+      "capInsets": [
+        22,
+        22,
+        22,
+        22
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "progress_bar_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        417,
+        1,
+        534,
+        36
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        534,
+        36
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "badgeGlow01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        1,
+        688,
+        272,
+        273
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        276,
+        275
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "closeBtnFBpressed",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        625,
+        765,
+        163,
+        70
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        163,
+        70
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "giftDisabled",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1434,
+        863,
+        71,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        78
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Store_best_value_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1083,
+        699,
+        88,
+        91
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        88,
+        91
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Store_forth_panel_coin_set",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1548,
+        594,
+        73,
+        59
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        73,
+        59
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_app_sunbrust_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        507,
+        1182,
+        142,
+        142
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        142,
+        142
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "text_Box",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1004,
+        798,
+        93,
+        89
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        93,
+        89
+      ],
+      "rotated": 1,
+      "capInsets": [
+        5,
+        5,
+        5,
+        4
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_get_rewards_green_circle_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1806,
+        851,
+        49,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        49,
+        49
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "line",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1268,
+        179,
+        314,
+        2
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        314,
+        2
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_icon_on_button",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1802,
+        302,
+        45,
+        46
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        45,
+        46
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fb_icon",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        819,
+        893,
+        37,
+        57
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        37,
+        57
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "selected_button_02_v2",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        1,
+        2014,
+        40,
+        15
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        15
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "progress_bar_02",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        417,
+        39,
+        530,
+        32
+      ],
+      "offset": [
+        0,
+        2
+      ],
+      "originalSize": [
+        534,
+        36
+      ],
+      "capInsets": [
+        14,
+        11,
+        12,
+        14
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fb_button_pressed",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1449,
+        233,
+        198,
+        82
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        198,
+        82
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "notification",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1857,
+        764,
+        42,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        42,
+        43
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_get_rewards_grey_container_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1857,
+        809,
+        50,
+        50
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        50,
+        50
+      ],
+      "capInsets": [
+        17,
+        17,
+        18,
+        18
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "star_deselected",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1857,
+        861,
+        38,
+        36
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        38,
+        36
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "red_close",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1808,
+        360,
+        61,
+        61
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        61,
+        61
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "star_selected",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1873,
+        899,
+        38,
+        36
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        38,
+        36
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_gems_big_disable_03",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        507,
+        1326,
+        138,
+        187
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        138,
+        187
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shadow",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        902,
+        625,
+        48,
+        16
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        48,
+        16
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Message_banner_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        276,
+        776,
+        40,
+        40
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        40
+      ],
+      "capInsets": [
+        12,
+        12,
+        12,
+        12
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "desleact_button_01_disable",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1849,
+        271,
+        87,
+        85
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        87,
+        85
+      ],
+      "rotated": 1,
+      "capInsets": [
+        20,
+        20,
+        20,
+        25
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_coin_stack_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1853,
+        549,
+        58,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        56
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_player_profile_on_leaderboard",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        456,
+        1240,
+        49,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        49,
+        49
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "red_button_small",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1714,
+        497,
+        63,
+        65
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        63,
+        65
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_get_rewards_tap_icon_normal_02",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        648,
+        1978,
+        44,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        44,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "lobbyContainerFill",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        878,
+        914,
+        31,
+        26
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        31,
+        26
+      ],
+      "capInsets": [
+        9,
+        11,
+        8,
+        11
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "text_enter",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1613,
+        302,
+        72,
+        61
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        72,
+        61
+      ],
+      "capInsets": [
+        20,
+        20,
+        20,
+        20
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_referral_button_coin_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1831,
+        902,
+        40,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        40
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_badge_place_holder_02",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        101,
+        1108,
+        148,
+        151
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        148,
+        151
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "smaller_square01_button_pressed",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        410,
+        1981,
+        46,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        49
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_rewards_blue_arrow",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        714,
+        1869,
+        43,
+        99
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        43,
+        99
+      ],
+      "rotated": 1,
+      "capInsets": [
+        21,
+        32,
+        21,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "headbar_title",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1268,
+        86,
+        351,
+        87
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        351,
+        87
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_ranking_season_banner_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        606,
+        1755,
+        43,
+        29
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        43,
+        29
+      ],
+      "rotated": 1,
+      "capInsets": [
+        12,
+        12,
+        12,
+        12
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_rewards_pannel_bottom",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        420,
+        1706,
+        48,
+        72
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        48,
+        72
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coinStack2",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1788,
+        902,
+        38,
+        41
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        38,
+        41
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "select_pressed_tickmark",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        364,
+        860,
+        36,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        36,
+        38
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "settings",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        364,
+        818,
+        36,
+        40
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        36,
+        40
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fb_native_button_deselected",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1268,
+        183,
+        257,
+        48
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        257,
+        48
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "common.plist",
+    "_spriteFrames": {
+      "1stPlace": {
+        "__uuid__": "8fbh6MovtO8rU/Xn3e9v0t"
+      },
+      "2ndPlace": {
+        "__uuid__": "3cqUktkg1FNrLaWBa13W17"
+      },
+      "3rdPlace": {
+        "__uuid__": "8eb5eCKgFEtYEJc2+qrxVl"
+      },
+      "4thPlace": {
+        "__uuid__": "83X5kGNSFH66l/tqKi6F/F"
+      },
+      "Badge0": {
+        "__uuid__": "a2tXARYoxLaYfgwLFjUEc6"
+      },
+      "Badge1": {
+        "__uuid__": "d99S5hp7FIEK0TLjpYciDz"
+      },
+      "Badge2": {
+        "__uuid__": "58Q75e8gNOLYPNoZFGF5Br"
+      },
+      "Badge3": {
+        "__uuid__": "595/6XeXJAj6jMHWb94YrG"
+      },
+      "Badge4": {
+        "__uuid__": "22WIhPhShBoLbTJ82j0DEi"
+      },
+      "Badge5": {
+        "__uuid__": "393zpuAbBC0rip+cR2LLlq"
+      },
+      "Circle": {
+        "__uuid__": "c6VO3py8tFTL7drZOL5yYR"
+      },
+      "Coin_stack_06": {
+        "__uuid__": "9aR+0oDK1DNrK9QKs8/NM9"
+      },
+      "Coin_stack_disable_01": {
+        "__uuid__": "a6RCGGB/VIZ55gFkGnFjpV"
+      },
+      "Coin_stack_disable_02": {
+        "__uuid__": "3aks8D4lJAkrWskYhWfilY"
+      },
+      "Coin_stack_disable_03": {
+        "__uuid__": "b7itsEBb9NN6OJeqw5mfsl"
+      },
+      "Coin_stack_disable_04": {
+        "__uuid__": "ffGeaXMLxFAL5VM8KNFKUk"
+      },
+      "Coin_stack_disable_05": {
+        "__uuid__": "12SIyB1bFF/IycSrIvF+3B"
+      },
+      "LoadingCircleAnim": {
+        "__uuid__": "ff7vyEdAVEyZQ75OX8oYnP"
+      },
+      "Ludo_IG_Message_banner_01": {
+        "__uuid__": "72gTl0oEtOC5RywkQUh/pE"
+      },
+      "Ludo_IG_Message_banner_arrow_01": {
+        "__uuid__": "4ejcevMiJKDJMXbfhtYIud"
+      },
+      "Ludo_IG_Store_back_panel_below_top": {
+        "__uuid__": "c4cwqTAi1KvYVlL2fdXQ9t"
+      },
+      "Ludo_IG_Store_back_panel_center": {
+        "__uuid__": "b9e+//SiJCtK3S1Urv1fiE"
+      },
+      "Ludo_IG_Store_back_panel_side": {
+        "__uuid__": "5ewQYqDRVIsK7gt2S81aMY"
+      },
+      "Ludo_IG_Store_back_panel_top": {
+        "__uuid__": "dcusv+sDxJ/7wxxYwl4Pvv"
+      },
+      "Ludo_IG_Store_deselect_tab": {
+        "__uuid__": "8cKFK8p15KaqErqLZTbuhg"
+      },
+      "Ludo_IG_coin_disable_01": {
+        "__uuid__": "a5jg5WGJVHwqJr4n5EOEWl"
+      },
+      "Ludo_IG_down_arrow_01": {
+        "__uuid__": "90eUWTrxhG5pnbrG3l1KyG"
+      },
+      "Ludo_IG_get_rewards_grey_line_01": {
+        "__uuid__": "ef6wGlN+xO5rvQNXCpdN2m"
+      },
+      "Ludo_IG_get_rewards_tap_icon_disable_02": {
+        "__uuid__": "cdgE1O5WpK9ZPJhNH7Bieb"
+      },
+      "Ludo_IG_get_rewards_tap_icon_normal_02": {
+        "__uuid__": "78QhQc0rdAC5S4f0xS2v4j"
+      },
+      "Ludo_IG_left_arrow_01": {
+        "__uuid__": "30PT6jal5AdrlUIPGYY2xC"
+      },
+      "badgeGlow01": {
+        "__uuid__": "60tr0SHgZM2ruHBTbTrfXY"
+      },
+      "blue_button_01_disable": {
+        "__uuid__": "ef8sz7GNxHyp80RJKsqbPs"
+      },
+      "blue_button_01_pressed": {
+        "__uuid__": "58w4Udqi9L950STW18RwcP"
+      },
+      "bluuton_grreen_01_pressed": {
+        "__uuid__": "47hlxXqYFAX6q51hx14t4E"
+      },
+      "bluuton_red_01_pressed": {
+        "__uuid__": "87f/nv8oBH1ZmwyLII2xBd"
+      },
+      "bluuton_yellow_01_pressed": {
+        "__uuid__": "c6eef6VMdMqrNEuJxipWqu"
+      },
+      "box_)012": {
+        "__uuid__": "01z5ix8lNKyoiNfuRl75SU"
+      },
+      "button_blue_new": {
+        "__uuid__": "23JQTf6ClDB5q9tK9uhPmC"
+      },
+      "button_green_new": {
+        "__uuid__": "04FCDJPmlAubEv4vkgBwAC"
+      },
+      "button_red_new": {
+        "__uuid__": "1aGRNl00VMfJtP8lzBC4C7"
+      },
+      "button_yellow_new": {
+        "__uuid__": "8eDzvHyRdKAac0dQkrlhyO"
+      },
+      "chat_button": {
+        "__uuid__": "9djUyIrLNAK5ZSiO8gK87h"
+      },
+      "coin": {
+        "__uuid__": "c2uqpGdIlAu533sj6bEIMn"
+      },
+      "coin_stack_01": {
+        "__uuid__": "51NYmX27RIIaLwWKw5KIka"
+      },
+      "coin_stack_02": {
+        "__uuid__": "147rTiRNpMYKcje/PMH27O"
+      },
+      "coin_stack_03": {
+        "__uuid__": "c6QsFQ0iZBhrKqw9XZBJcj"
+      },
+      "coin_stack_04": {
+        "__uuid__": "44axBZFehLdqsILmdb71a0"
+      },
+      "coin_stack_05": {
+        "__uuid__": "f6PCYSmTNAooonj4MGTdxu"
+      },
+      "emptyBadge": {
+        "__uuid__": "8cVtjyQeNCvZPB8HtrseQG"
+      },
+      "help_icon": {
+        "__uuid__": "38hRXFmIRM7KgtVcP9Baua"
+      },
+      "ludo_app_sunbrust_01": {
+        "__uuid__": "656cfEhitJ5oSA61IX9kjF"
+      },
+      "ludo_ig_coin_gems_big": {
+        "__uuid__": "febuxxe1dOU6/nKRFvBhnS"
+      },
+      "ludo_ig_coin_icon_big": {
+        "__uuid__": "03WAvOLb1Lb7R+FtmyOj1x"
+      },
+      "ludo_ig_gems_big_01": {
+        "__uuid__": "94v8k03XxGeJCPvY1PWvZB"
+      },
+      "ludo_ig_gems_big_02": {
+        "__uuid__": "f0OSaUO+5ORbERa1e2lEue"
+      },
+      "ludo_ig_gems_big_03": {
+        "__uuid__": "41CU0ffktE8pYUfRUgwRh+"
+      },
+      "ludo_ig_gems_big_04": {
+        "__uuid__": "44JpnZyIpFo7ZI5onQY6jd"
+      },
+      "ludo_ig_gems_big_05": {
+        "__uuid__": "ca39NzeZ5GJZh7lwIkBL/W"
+      },
+      "ludo_ig_gems_big_06": {
+        "__uuid__": "46GVIz2phF36QwPv1qgfug"
+      },
+      "ludo_ig_gems_big_disable_01": {
+        "__uuid__": "d2Fl9ZBr5IzJjl8HXPR0Hq"
+      },
+      "ludo_ig_gems_big_disable_02": {
+        "__uuid__": "91q0weufxJlI0S95XYTlrT"
+      },
+      "ludo_ig_gems_big_disable_03": {
+        "__uuid__": "72A+qjou1M87BL+SaWgzYj"
+      },
+      "ludo_ig_gems_big_disable_04": {
+        "__uuid__": "434CwM8ONDoaBOm4T5G+I6"
+      },
+      "ludo_ig_gems_big_disable_05": {
+        "__uuid__": "237jhMF8JDdbCeRIzuXz2H"
+      },
+      "ludo_ig_gems_big_disable_06": {
+        "__uuid__": "2fkmjGu55G8JcyECk1NEGB"
+      },
+      "ludo_ig_leagues_badge_place_holder": {
+        "__uuid__": "59Qq7cXDlM36I4IJOufFOH"
+      },
+      "ludo_ig_leagues_badge_place_holder_01": {
+        "__uuid__": "8aGFwpvQ5H4afzeqnkg4lc"
+      },
+      "ludo_ig_leagues_badge_place_holder_02": {
+        "__uuid__": "7bdURNMIBL+r4W8AhaWeE5"
+      },
+      "ludo_ig_leagues_copper_badge_big": {
+        "__uuid__": "43UOs9sRVFzbcMkD9MUmQ6"
+      },
+      "ludo_ig_leagues_diamond_badge_big": {
+        "__uuid__": "f0EVOgBLxPsa2yHZCCIX0W"
+      },
+      "ludo_ig_leagues_gold_badge_big": {
+        "__uuid__": "26YWJZM5lCBLzZ3YocRtbz"
+      },
+      "ludo_ig_leagues_hidden_badge": {
+        "__uuid__": "c9OlYVTjRHbaPtvoKkYuww"
+      },
+      "ludo_ig_leagues_hidden_badge_01": {
+        "__uuid__": "09sAW6XYBHkZ9x/zM94C9S"
+      },
+      "ludo_ig_leagues_hidden_badge_02": {
+        "__uuid__": "de9J0qeR1CXohNtIVvZjgp"
+      },
+      "ludo_ig_leagues_lobby_badge_icon": {
+        "__uuid__": "35MaBW3LhO0bxOZVUImAv+"
+      },
+      "ludo_ig_leagues_lobby_badge_icon_unlocked": {
+        "__uuid__": "9c3qJfL4RFup/39FPJK+Ml"
+      },
+      "ludo_ig_leagues_lobby_button": {
+        "__uuid__": "5cu8nu291OCbQleHKEBVC8"
+      },
+      "ludo_ig_leagues_lobby_button_Disabled_state": {
+        "__uuid__": "c3D6jWFH5OZoMk1wrOcg/T"
+      },
+      "ludo_ig_leagues_lobby_button_pressed_state": {
+        "__uuid__": "d2NUNUqy9HkpQeRexsqFot"
+      },
+      "ludo_ig_leagues_lobby_lock_on_unlock_badge_icon": {
+        "__uuid__": "a602rgYyRDfIi8AZEbStFQ"
+      },
+      "ludo_ig_leagues_platinum_badge_big": {
+        "__uuid__": "11oHLe06VF0bYVg/2C+ELJ"
+      },
+      "ludo_ig_leagues_player_profile_on_leaderboard": {
+        "__uuid__": "76uKmym+tBFJGrFtoMJ19o"
+      },
+      "ludo_ig_leagues_rewards_Promote_demote_arrow": {
+        "__uuid__": "d5oavrix9Ld6nIM5ZWbNsD"
+      },
+      "ludo_ig_leagues_rewards_Promote_demote_banner": {
+        "__uuid__": "c30H5bVetNM5eRUVukBiyI"
+      },
+      "ludo_ig_leagues_rewards_blue_arrow": {
+        "__uuid__": "7ddz+LFNFPooFB6+vKgqgf"
+      },
+      "ludo_ig_leagues_rewards_pannel": {
+        "__uuid__": "f3clXqjsxPjKtHNxTwc5qI"
+      },
+      "ludo_ig_leagues_rewards_pannel_bottom": {
+        "__uuid__": "80Ggi3jqhCQ44A7HUdsr4s"
+      },
+      "ludo_ig_leagues_rewards_player_demoted_info_banner_big": {
+        "__uuid__": "feABCOI8ZI4q6QzF2XnVTw"
+      },
+      "ludo_ig_leagues_rewards_player_demoted_info_banner_small_01": {
+        "__uuid__": "9aGvXzwelN34KXMiKLocVF"
+      },
+      "ludo_ig_leagues_rewards_player_promoted_info_banner_big": {
+        "__uuid__": "16gq4foE9PlYSqQQO1ovIv"
+      },
+      "ludo_ig_leagues_rewards_player_promoted_info_banner_small_01": {
+        "__uuid__": "09setxXq1DQqpJRd03YhT0"
+      },
+      "ludo_ig_leagues_ruby_badge_big": {
+        "__uuid__": "8c2yY6YMZOcpQFXaLGcrpz"
+      },
+      "ludo_ig_leagues_silver_badge_big": {
+        "__uuid__": "97XHwQjA1Op5vyeJex0Xot"
+      },
+      "ludo_ig_ranking_season_banner_01": {
+        "__uuid__": "7ebgUsJL1KRa7lZmycGMki"
+      },
+      "ludo_ig_settings_icon_01": {
+        "__uuid__": "853k5YkOpKE6y4a1nrEmKP"
+      },
+      "ludo_ig_yellow_button_square_normal": {
+        "__uuid__": "e68fpGMnFCF7CaeF4xXJH5"
+      },
+      "ludo_ig_yellow_button_square_pressed": {
+        "__uuid__": "beRPg3NWpBV6fQx+9i/MxX"
+      },
+      "select_pressed_tickmark": {
+        "__uuid__": "81MZEWtytJWYb0Go0GExBp"
+      },
+      "select_pressed_tickmark_disable": {
+        "__uuid__": "fa36Qs2BRHZay+eyhM7wWS"
+      },
+      "selected_button_01-(1)-(1)": {
+        "__uuid__": "d29E8H6TNHcp0Y2RordmB9"
+      },
+      "selected_button_01_1_v2": {
+        "__uuid__": "26hB1r0thDH5SkALe1pqEu"
+      },
+      "selected_button_01_v2": {
+        "__uuid__": "acByVQGjpE371+Wqvm43pS"
+      },
+      "selected_button_02_v2": {
+        "__uuid__": "69UJoawNpP1YJzk3DWv8xv"
+      },
+      "selected_button_03_v2": {
+        "__uuid__": "f89JgaHL5N/ZZG1AJZ5tx4"
+      },
+      "semi_pop_bg_01": {
+        "__uuid__": "90RY/0nfhDi7cdtjhRQnWk"
+      },
+      "settings": {
+        "__uuid__": "81c6H/j7JOY6XSGFIQHVu/"
+      },
+      "shadow": {
+        "__uuid__": "72Ol5TwpdDzrXc7sSYD1a2"
+      },
+      "shadow_star": {
+        "__uuid__": "3cnRP3UjtJ/JfQT8aWv//+"
+      },
+      "small_disabled_button_01": {
+        "__uuid__": "femyuoV65H168DrANrnNUK"
+      },
+      "smaller_square01_button": {
+        "__uuid__": "2bIvkvGdtLB65gtafqr4ob"
+      },
+      "smaller_square01_button_pressed": {
+        "__uuid__": "7dGtq9s/FMzYjcQTxa4ZPf"
+      },
+      "tick_01": {
+        "__uuid__": "05aKG89w9BepbkqkKGxt1y"
+      },
+      "topHudBg": {
+        "__uuid__": "0fEturE5ZMfIp65MUwgWD6"
+      },
+      "trophy_01": {
+        "__uuid__": "c9DOOTUNBNPZnNld8A2FQb"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "4thPlace",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        309,
+        1897,
+        87,
+        97
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        95,
+        97
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Coin_stack_05",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1095,
+        885,
+        99,
+        55
+      ],
+      "offset": [
+        -1,
+        -3
+      ],
+      "originalSize": [
+        101,
+        101
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_gems_coin_stack_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1055,
+        589,
+        108,
+        101
+      ],
+      "offset": [
+        -2,
+        0
+      ],
+      "originalSize": [
+        116,
+        101
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_promoted_blue_banner",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1638,
+        1,
+        255,
+        85
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        255,
+        85
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_settings_icon_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        234,
+        1988,
+        42,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        42,
+        42
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bluuton_red_01_pressed",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        319,
+        214,
+        201,
+        83
+      ],
+      "offset": [
+        0,
+        -2
+      ],
+      "originalSize": [
+        201,
+        87
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loader-11",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1511,
+        669,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_badge_place_holder_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        507,
+        1031,
+        151,
+        149
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        151,
+        149
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Store_deselect_tab",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        441,
+        1438,
+        52,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        52,
+        64
+      ],
+      "rotated": 1,
+      "capInsets": [
+        17,
+        19,
+        18,
+        17
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "emptyBadge",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        276,
+        688,
+        40,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        44
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_ruby_badge_big",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        532,
+        239,
+        164,
+        164
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        164,
+        164
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_get_rewards_green_container_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1851,
+        667,
+        50,
+        50
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        50,
+        50
+      ],
+      "capInsets": [
+        17,
+        17,
+        17,
+        17
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "button_yellow_new",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        241,
+        1328,
+        199,
+        85
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        199,
+        85
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "3rdPlace",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        834,
+        1685,
+        87,
+        97
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        95,
+        97
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "1stPlace",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        210,
+        1897,
+        89,
+        97
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        95,
+        97
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "semi_pop_bg_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        1,
+        120,
+        92,
+        401
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        92,
+        401
+      ],
+      "rotated": 1,
+      "capInsets": [
+        18,
+        18,
+        18,
+        18
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_down_arrow_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        585,
+        1720,
+        33,
+        23
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        33,
+        23
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_edit_profile_entry_box_stroke_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1790,
+        685,
+        56,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        56,
+        56
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_red_sell_asset_02",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        885,
+        798,
+        114,
+        117
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        114,
+        117
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_gems_big_disable_02",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        404,
+        339,
+        217,
+        126
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        217,
+        126
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "green_button_small",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1649,
+        500,
+        63,
+        65
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        63,
+        65
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_gems_big_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        404,
+        558,
+        180,
+        114
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        182,
+        114
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "trophyProfile",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1299,
+        607,
+        75,
+        88
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        75,
+        88
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fb_button_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        171,
+        654,
+        198,
+        82
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        198,
+        82
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "IG_support_icon",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1241,
+        808,
+        32,
+        23
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        32,
+        23
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_silver_badge_big",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        519,
+        877,
+        152,
+        163
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        152,
+        163
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Store_sixth_panel_pouch",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1609,
+        594,
+        74,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        74,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "closeBtnFB",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        553,
+        772,
+        163,
+        70
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        163,
+        70
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "profile_info_pannel",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1210,
+        373,
+        5,
+        52
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        5,
+        52
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_rewards_player_demoted_info_banner_small_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        428,
+        1616,
+        43,
+        74
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        43,
+        74
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Coin_stack_06",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        442,
+        1339,
+        97,
+        63
+      ],
+      "offset": [
+        0,
+        -2
+      ],
+      "originalSize": [
+        101,
+        101
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_lobby_badge_icon_unlocked",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        408,
+        1893,
+        102,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        102,
+        86
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "sad_emo",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1779,
+        496,
+        64,
+        64
+      ],
+      "offset": [
+        1,
+        1
+      ],
+      "originalSize": [
+        80,
+        70
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_button",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        101,
+        1740,
+        109,
+        46
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        109,
+        46
+      ],
+      "capInsets": [
+        12,
+        10,
+        12,
+        16
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Badge0",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        101,
+        1788,
+        99,
+        107
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        99,
+        107
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "red_close_pressed",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1832,
+        423,
+        61,
+        61
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        61,
+        61
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_referral_button_shine_on_coin_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1173,
+        819,
+        64,
+        66
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        64,
+        66
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_coin_disable_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        278,
+        1988,
+        35,
+        35
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        35,
+        35
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Coin_stack_disable_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        504,
+        1625,
+        129,
+        93
+      ],
+      "offset": [
+        -9,
+        0
+      ],
+      "originalSize": [
+        147,
+        93
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loader-12",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1584,
+        670,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_lobby_lock_on_unlock_badge_icon",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        851,
+        1328,
+        48,
+        61
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        48,
+        61
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fb_profile_container",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1678,
+        366,
+        62,
+        67
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        64,
+        67
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "selected_button_01_v2",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        254,
+        1208,
+        240,
+        30
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        240,
+        30
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Feedback_line",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1268,
+        175,
+        325,
+        2
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        325,
+        2
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tik_icon",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        918,
+        535,
+        26,
+        21
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        26,
+        21
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_transparent_Pressed_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1434,
+        779,
+        78,
+        82
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        82
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "big_yellow_button_01_passed",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        713,
+        327,
+        226,
+        206
+      ],
+      "offset": [
+        0,
+        -1
+      ],
+      "originalSize": [
+        226,
+        216
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_transparent_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1350,
+        779,
+        78,
+        82
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        82
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "lobby.plist",
+    "_spriteFrames": {
+      "16": {
+        "__uuid__": "cbSaFZdExE2L+14yjDTUCu"
+      },
+      "17": {
+        "__uuid__": "33VuejAvNGOoxPGMCF92Jy"
+      },
+      "Arrow_1": {
+        "__uuid__": "15pdidQFhAB61bLU6S2xSZ"
+      },
+      "Coin_stack_01": {
+        "__uuid__": "ff5HgSripNs5g2oOPIzadO"
+      },
+      "Coin_stack_02": {
+        "__uuid__": "47MLh4W3FM3aHcjZp9LVVI"
+      },
+      "Coin_stack_03": {
+        "__uuid__": "c8dUAkgf5D24WUyMLHr2lc"
+      },
+      "Coin_stack_04": {
+        "__uuid__": "28b/KK4l5ACo6EWaVvR5UH"
+      },
+      "Coin_stack_05": {
+        "__uuid__": "83vdwxxzVBU40anqYMQj1R"
+      },
+      "Feedback_line": {
+        "__uuid__": "aeIfVsZINLzKmUJjnqGB51"
+      },
+      "IG_support_icon": {
+        "__uuid__": "97IjNPPZVFfqQy3e5shXbL"
+      },
+      "LUDO_IG_minus-sign_01": {
+        "__uuid__": "edcT00U6RP2JETxDJ7G83E"
+      },
+      "LUDO_IG_plus-sign_01": {
+        "__uuid__": "59z/kXrrRMzIocyIebIflk"
+      },
+      "Ludo_IG_FTUE_Button_Glow": {
+        "__uuid__": "07i2W4UQxNx7UR56g3/dNO"
+      },
+      "Ludo_IG_Store_best_value_01": {
+        "__uuid__": "65KraJo3VGzJI0/a9hWE+w"
+      },
+      "Ludo_IG_Store_fifth_panel_pouch": {
+        "__uuid__": "02K0V+SHRGHLhnvIZyZDEJ"
+      },
+      "Ludo_IG_Store_forth_panel_coin_set": {
+        "__uuid__": "65PmvSB5NHB7DDxrd+CoQS"
+      },
+      "Ludo_IG_Store_info_panel": {
+        "__uuid__": "5fuKhOIWhJQoeCYwvIvkdr"
+      },
+      "Ludo_IG_Store_info_panel_pressed": {
+        "__uuid__": "50xNn2QQ9MS707IY4ALSrr"
+      },
+      "Ludo_IG_Store_redline": {
+        "__uuid__": "1ckONVQs9Ob6z6R3q8TaXA"
+      },
+      "Ludo_IG_Store_sell_tag": {
+        "__uuid__": "ecoNLC/PtK/aUnzjdPxQ+7"
+      },
+      "Ludo_IG_Store_sixth_panel_pouch": {
+        "__uuid__": "97aNzt1GdOyJ6SoiyzO703"
+      },
+      "Ludo_IG_daily_bonus_coin_01": {
+        "__uuid__": "29AK42PJ5Py4ZOt3RCTqaC"
+      },
+      "Ludo_IG_get_rewards_blue_circle_01": {
+        "__uuid__": "56dsA4guJJmY5zmvrydZ2+"
+      },
+      "Ludo_IG_get_rewards_blue_container_01": {
+        "__uuid__": "cbcYPFrPNDb4fGnpHDCEE5"
+      },
+      "Ludo_IG_get_rewards_blue_play_01": {
+        "__uuid__": "33/vwUncVAT6DMQ98Ka0EM"
+      },
+      "Ludo_IG_get_rewards_green_arrow_01": {
+        "__uuid__": "f627p2lsFFg6uAaJz1ddGv"
+      },
+      "Ludo_IG_get_rewards_green_circle_01": {
+        "__uuid__": "66gTHQuilP+ovndxIx6pqM"
+      },
+      "Ludo_IG_get_rewards_green_container_01": {
+        "__uuid__": "8dC/itel1NgomN/1J9GMWz"
+      },
+      "Ludo_IG_get_rewards_grey_arrow_01": {
+        "__uuid__": "f3oHhjhF5HW5JFyp0seqWw"
+      },
+      "Ludo_IG_get_rewards_grey_circle_01": {
+        "__uuid__": "b9EaKTLOZIQJXjErlkVIl+"
+      },
+      "Ludo_IG_get_rewards_grey_container_01": {
+        "__uuid__": "6bdvLcZANOyLmGEPZdtE9A"
+      },
+      "Ludo_IG_get_rewards_white_tick_01": {
+        "__uuid__": "08FEQKeGZAX7RB3lZyvzW8"
+      },
+      "Ludo_IG_red_sell_asset_01": {
+        "__uuid__": "c2fSGMbQtB1bneqUlyiAsd"
+      },
+      "Ludo_IG_red_sell_asset_02": {
+        "__uuid__": "91hb+YMkVDhpV0YFGen1WQ"
+      },
+      "Ludo_IG_referral_button_coin_01": {
+        "__uuid__": "7a3TYp3bhDCK4jAlqrdurx"
+      },
+      "Ludo_IG_referral_button_people_01": {
+        "__uuid__": "4fsb/91WxGiZ0oX4db3AXi"
+      },
+      "Ludo_IG_referral_button_plus_01": {
+        "__uuid__": "beHHz4plxI4IgL2zWEP9qP"
+      },
+      "Ludo_IG_referral_button_shine_on_coin_01": {
+        "__uuid__": "a3Xj1p23hBAbAPd1V1ahrG"
+      },
+      "Ludo_IG_referral_giftbox_01": {
+        "__uuid__": "44+HwBQYpEXq+Izh6Qu0Tw"
+      },
+      "Ludo_IG_referral_have_friends_code_02": {
+        "__uuid__": "c4IYOG9AxLE5thhws5olKH"
+      },
+      "Ludo_IG_referral_icon_02": {
+        "__uuid__": "0bcoOypPhKJpbtWLTzLoRn"
+      },
+      "Ludo_IG_referral_rewards_Profile_frame_01": {
+        "__uuid__": "2amH6x/0hJjYNrqWqrbfsg"
+      },
+      "Ludo_IG_referral_rewards_Profile_frame_back_01": {
+        "__uuid__": "38VPXGPhhPHpMoEE9IPsnd"
+      },
+      "Ludo_IG_referral_rewards_coin_stack_back_left_01": {
+        "__uuid__": "d3JrhlR6JCZawDSQR3czIo"
+      },
+      "Ludo_IG_referral_rewards_coin_stack_back_right_01": {
+        "__uuid__": "f29XNgFvlIRazWEJCX+6Vw"
+      },
+      "Ludo_IG_referral_rewards_coin_stack_front_left_01": {
+        "__uuid__": "1bkU2LtNBPubaAlgyDiNko"
+      },
+      "Ludo_IG_referral_rewards_coin_stack_front_right_01": {
+        "__uuid__": "dfgq3c+xJP3YqyKI59iueg"
+      },
+      "aaaasasasasa": {
+        "__uuid__": "59MSF4CWROGoyt/FZ/Qzyu"
+      },
+      "add": {
+        "__uuid__": "ecKJVqXClKLJQ75R9Hd5pB"
+      },
+      "big_blue_button": {
+        "__uuid__": "f6O8frRg9IgYvAPvg4uj4a"
+      },
+      "big_blue_button_01_pressed": {
+        "__uuid__": "47hM5xnwtA/5oTSeN2SWcj"
+      },
+      "big_green_button_01": {
+        "__uuid__": "e96PnzAEBJLpo6jCui1DND"
+      },
+      "big_green_button_01_pressed": {
+        "__uuid__": "47TTNlhUlClotvjV2wbmrk"
+      },
+      "big_yellow_button_01": {
+        "__uuid__": "35mFRyiFVPp44N2wiWXB7X"
+      },
+      "big_yellow_button_01_passed": {
+        "__uuid__": "b0YwvSFsNCvaHjN1y+Eg5d"
+      },
+      "block_icon": {
+        "__uuid__": "32qeP5IxFLsJ+alBdsJGKw"
+      },
+      "ccbParticleOrb": {
+        "__uuid__": "c9VtVwPFlMkZuc9LdzYP1b"
+      },
+      "chat_icon_on_button": {
+        "__uuid__": "67209XBm1Pfp5n+iVL7W5l"
+      },
+      "closeBtnFB": {
+        "__uuid__": "98GxFNXK5LiZWXEn/qeUta"
+      },
+      "closeBtnFBpressed": {
+        "__uuid__": "602f9z+FNKArXaGAn1AEFA"
+      },
+      "coinBg": {
+        "__uuid__": "b4MfxX2TNEGKxOAVbsT/ii"
+      },
+      "coinStack2": {
+        "__uuid__": "80a1iX0wBKcotkQaGH5MFZ"
+      },
+      "containter_)1": {
+        "__uuid__": "c4aPwSM1ZHqKfxRn0nIdoD"
+      },
+      "darkBgPlay": {
+        "__uuid__": "d7z0wAsmlA8LmfooBTGjLe"
+      },
+      "dash": {
+        "__uuid__": "f38vxpojBDDL4DwvA9gK31"
+      },
+      "desleact_button_01": {
+        "__uuid__": "b21580uRZMxZWYwdog16C8"
+      },
+      "desleact_button_01_disable": {
+        "__uuid__": "74J5/ickFIK71LmgDUvpAN"
+      },
+      "disabledplay": {
+        "__uuid__": "c0+j4dpxtN1LbcZTMeAUJF"
+      },
+      "divider": {
+        "__uuid__": "f3OlTCRehNxqdvUFofv/F7"
+      },
+      "empty_star_01": {
+        "__uuid__": "d8C6IYzuVO7LgdfY6H+e7N"
+      },
+      "fb_button_01": {
+        "__uuid__": "97Ho+vYnhJdqas5nt/9BJ8"
+      },
+      "fb_button_pressed": {
+        "__uuid__": "69tg70fnFMBILD328Sz1+i"
+      },
+      "fb_icon": {
+        "__uuid__": "68njYNXxlCILfUop+VsQvQ"
+      },
+      "fb_login_partition": {
+        "__uuid__": "b2Wun6DmJHjI6B8Dg1Ytsq"
+      },
+      "fb_native_button": {
+        "__uuid__": "35tQZM65JLRLVtVoZFWz1p"
+      },
+      "fb_native_button_deselected": {
+        "__uuid__": "825YtDkZZGGJk2dg42JE4Z"
+      },
+      "fb_native_button_pressed": {
+        "__uuid__": "faJ70bU01EsZyTfkKcEkLw"
+      },
+      "fb_profile_container": {
+        "__uuid__": "a8v++PoQVJZKV37gEoRxJX"
+      },
+      "fb_profile_container_v2": {
+        "__uuid__": "446xUGqRJHMLmjh71GG3MA"
+      },
+      "fb_profile_default": {
+        "__uuid__": "c4Z3Mna2tM96B3b74J2OnB"
+      },
+      "full_star_01": {
+        "__uuid__": "02oPsy7I9DrK79Ktq8G9WA"
+      },
+      "gift": {
+        "__uuid__": "0dsiCxZapNBYTT1hpDAuxl"
+      },
+      "giftDisabled": {
+        "__uuid__": "64nIn7gXlB/7JyWLdbIinT"
+      },
+      "giftOpen": {
+        "__uuid__": "4a0xsjluFKrafSDehsWIXa"
+      },
+      "gift_01": {
+        "__uuid__": "10rwaeLutHpoJGUdYNGZ3m"
+      },
+      "green_button_small": {
+        "__uuid__": "93dfbskB1HkIfaJB2FXokE"
+      },
+      "happy_emo": {
+        "__uuid__": "28MQyHHa5Ctayk+tuL9yXv"
+      },
+      "headbar_title": {
+        "__uuid__": "7eBm1CSyVKTatg/DYtbJ88"
+      },
+      "joinMsg_bg.9": {
+        "__uuid__": "fc+0O8/shA6oCMGqWE53pd"
+      },
+      "line": {
+        "__uuid__": "67ty1BoVZE7ZlbPjqICKtQ"
+      },
+      "loader-1": {
+        "__uuid__": "267x43TGZBv7CS1zxWHRWR"
+      },
+      "loader-10": {
+        "__uuid__": "caA58G5WlNoqO/s+K6E9pn"
+      },
+      "loader-11": {
+        "__uuid__": "88dk9F87VCDqUbLh/HbfaC"
+      },
+      "loader-12": {
+        "__uuid__": "a6ZZqySvhHppc/mR5lVYdD"
+      },
+      "loader-13": {
+        "__uuid__": "430csiJoFPCYBd/9AVYQwd"
+      },
+      "loader-2": {
+        "__uuid__": "12JhtTp6xJmZkCBYJJTfYq"
+      },
+      "loader-3": {
+        "__uuid__": "4fl+/C5tdEzKC7SWJ7j8LJ"
+      },
+      "loader-4": {
+        "__uuid__": "b682/UUrVBgbFzJTBtG0m6"
+      },
+      "loader-5": {
+        "__uuid__": "35cnBBYuZDYrqqdOz7oWqK"
+      },
+      "loader-6": {
+        "__uuid__": "dasCsVE0xAXpTwh+IbUWUJ"
+      },
+      "loader-7": {
+        "__uuid__": "cbUCx2bPxEtodJOnKDmpXp"
+      },
+      "loader-8": {
+        "__uuid__": "eenWtsqYZCkYUoBxcQNO++"
+      },
+      "loader-9": {
+        "__uuid__": "01nQQ8V0pKwpdlDObyeu0P"
+      },
+      "lobbyContainer": {
+        "__uuid__": "51NmKcwStJdKZ43x8tsncd"
+      },
+      "lobbyContainerFill": {
+        "__uuid__": "783j2EVCJO0JsVbgZYlPS4"
+      },
+      "lobbySmallTrophy": {
+        "__uuid__": "23g66PULxNJrSRhv2Dnsqn"
+      },
+      "ludo-ig_daily_bonus_coin_gems_01": {
+        "__uuid__": "3eTOzkfVxDRK6KtJJyeTnO"
+      },
+      "ludo_ig_leagues_edit_profile_entry_box_01": {
+        "__uuid__": "0ed0jsEeVKIr/NQf11Vj9p"
+      },
+      "ludo_ig_leagues_edit_profile_entry_box_stroke_01": {
+        "__uuid__": "91MJ9fXmBJjLVbUwBlrrO3"
+      },
+      "ludo_ig_leagues_promoted_blue_banner": {
+        "__uuid__": "84hjWot/FHUp/p3UZ9unvO"
+      },
+      "ludo_ig_leagues_redtag_on_lobby_button": {
+        "__uuid__": "09B1K/LQZHxqbUK30+Q0eS"
+      },
+      "ludo_ig_leagues_rewards_banner": {
+        "__uuid__": "b8Bz+I6eJJzpTrfNO0fo+e"
+      },
+      "ludo_ig_leagues_rewards_player_info_banner_big": {
+        "__uuid__": "4aSnSnWIZGKqJ0wwVevbxr"
+      },
+      "ludo_ig_leagues_rewards_player_info_banner_blue": {
+        "__uuid__": "37Ue//ssNK6Y61TiYo78MV"
+      },
+      "ludo_ig_leagues_rewards_rank_playerinfo_header": {
+        "__uuid__": "eatLua6C5OnoYj3uuGMehc"
+      },
+      "ludo_ig_shine_on_button_01": {
+        "__uuid__": "c0aJP7v0RNXq9SCeZgr2za"
+      },
+      "ludo_ig_video_button_blue_01": {
+        "__uuid__": "f70+OuI0FBRap8B+JoBYAa"
+      },
+      "ludo_ig_video_button_blue_disable_01": {
+        "__uuid__": "4eXDYyKPJPe7SaYff+3zu7"
+      },
+      "ludo_ig_video_button_blue_pressed_01": {
+        "__uuid__": "e7tCMtClZC8qoFQR3CQncC"
+      },
+      "ludo_ig_video_button_clapper_disable_01": {
+        "__uuid__": "f3BRhfdfNFvIkzlz5PLks9"
+      },
+      "ludo_ig_video_button_clapper_normal_01": {
+        "__uuid__": "db4yQeztlA9aPfCam1Z4K9"
+      },
+      "ludo_ig_video_button_clapper_pressed_01": {
+        "__uuid__": "5dFcjnAV5KA5ttrq9pEzER"
+      },
+      "ludo_ig_video_button_coin_glow_01": {
+        "__uuid__": "dbGkbXMaNI7JmnYtNKQE6g"
+      },
+      "ludo_ig_video_button_coin_stack_01": {
+        "__uuid__": "74xv2siuNKLrUaoPhHp9zO"
+      },
+      "ludo_ig_video_button_coin_stack_disable_01": {
+        "__uuid__": "e0X8aKbMlCm6xnhLUwCc4D"
+      },
+      "ludo_ig_video_button_coin_stack_pressed_01": {
+        "__uuid__": "daDaAu8IhAU5bAuSqIpEHr"
+      },
+      "ludo_ig_video_button_gems_coin_stack_01": {
+        "__uuid__": "84hFOOqeNF54WepGSLj5zR"
+      },
+      "ludo_ig_video_button_gems_glow_01": {
+        "__uuid__": "e5/DBE8sBGVbUjLLCHDCxg"
+      },
+      "ludo_ig_video_button_red_banner_01": {
+        "__uuid__": "11HyHeRMhOBp+3Fnko56BQ"
+      },
+      "ludo_ig_video_button_transparent_01": {
+        "__uuid__": "b12Z1geB5Cd5YBu/jTEGC8"
+      },
+      "ludo_ig_video_button_transparent_Pressed_01": {
+        "__uuid__": "afq9xcoZ5HSqyb5QeA3NWB"
+      },
+      "ludo_ig_video_button_transparent_disable_01": {
+        "__uuid__": "0faelPUz5KDasKCr9t2Xhi"
+      },
+      "ludoclub_leaderboard_header": {
+        "__uuid__": "3bIRVBIjtAD43S9YpIEjk8"
+      },
+      "notification": {
+        "__uuid__": "6aHsBPNT1P6azgSCn0Nhi/"
+      },
+      "okBtnFB": {
+        "__uuid__": "b9W/BEuTxKUIDmfgy40g1a"
+      },
+      "okBtnFBpressed": {
+        "__uuid__": "f1kOsm8ipGZItP8lAKeY4x"
+      },
+      "play": {
+        "__uuid__": "ecOBakBN5OLL1UFsReEmEv"
+      },
+      "play_online_icon": {
+        "__uuid__": "d6jdqA7mZCWYylS97VFJxM"
+      },
+      "play_with_friends_icon": {
+        "__uuid__": "09UOd5U9NLOZjC034EhClW"
+      },
+      "pop_up_container_scale9": {
+        "__uuid__": "39NtXJVBdKIqR8AYZozcxi"
+      },
+      "popup_big_bg_1": {
+        "__uuid__": "bdNTgR/kRLwpziem1OFZQz"
+      },
+      "profile_info_pannel": {
+        "__uuid__": "98wYCeaTVL1oiacvmmwiGr"
+      },
+      "profile_info_pannel_dark": {
+        "__uuid__": "e719DgJEhB8YJw3wZyfOWD"
+      },
+      "profile_info_pannel_dark_top_and_bottom": {
+        "__uuid__": "0dM+0SwVdC5ogoeK5+R0je"
+      },
+      "profile_info_pannel_light_top_and_bottom": {
+        "__uuid__": "54tQ6J7NBLtIdOBK8nhkHx"
+      },
+      "profile_popup": {
+        "__uuid__": "4af3GXpNBBb7mtCx0vlHyM"
+      },
+      "progress_bar_01": {
+        "__uuid__": "60PjmNLqVKEIkrUFimXMyC"
+      },
+      "progress_bar_02": {
+        "__uuid__": "69gZ08pSRILr18M013iuY4"
+      },
+      "qqqqqq": {
+        "__uuid__": "e64csGdklJQL2cfS+3khP+"
+      },
+      "red_button_small": {
+        "__uuid__": "77JUg86z9Icort6cF1hwkS"
+      },
+      "red_close": {
+        "__uuid__": "6frofbzg9HzZUorP/TEApI"
+      },
+      "red_close_disabled": {
+        "__uuid__": "b9lDuOfcdAdo/yMb8F97M6"
+      },
+      "red_close_pressed": {
+        "__uuid__": "a3JYSd0e5DHoH02oO3pQId"
+      },
+      "rewardDarkBg": {
+        "__uuid__": "1az1NEHJBBCZvDUUyzxtJJ"
+      },
+      "sad_emo": {
+        "__uuid__": "9dJ+GAABFOsrg2MMvPAyi/"
+      },
+      "selected_button_01": {
+        "__uuid__": "3bZsPg489Lsb8Xluu/Eqv7"
+      },
+      "small_trophy": {
+        "__uuid__": "34Ljw8/uRKLbDvTnQwtneM"
+      },
+      "star_deselected": {
+        "__uuid__": "6fetrEX+dDeITx0i0AmQ1f"
+      },
+      "star_selected": {
+        "__uuid__": "71SaTJGNJPdYgSziqA0vwB"
+      },
+      "text_Box": {
+        "__uuid__": "656zYIg3JKorVxwfsze8Zx"
+      },
+      "text_enter": {
+        "__uuid__": "785KQg8nZMDZcisc4I28GB"
+      },
+      "tik_icon": {
+        "__uuid__": "afCaHtiC5KT4Aj+yU3MzSM"
+      },
+      "timerBg": {
+        "__uuid__": "33PlvwGDtARrMayx+URdeD"
+      },
+      "trophyProfile": {
+        "__uuid__": "96FU0z2qJMNZpZOyuYGc/D"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fb_login_partition",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        371,
+        654,
+        3,
+        75
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        3,
+        75
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "desleact_button_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1849,
+        182,
+        87,
+        85
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        87,
+        85
+      ],
+      "rotated": 1,
+      "capInsets": [
+        20,
+        20,
+        20,
+        30
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coinBg",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1376,
+        662,
+        126,
+        35
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        126,
+        35
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loader-4",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1657,
+        670,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Coin_stack_disable_03",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        420,
+        1756,
+        184,
+        97
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        184,
+        97
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_rewards_banner",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1856,
+        719,
+        43,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        43,
+        43
+      ],
+      "capInsets": [
+        10,
+        10,
+        10,
+        10
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_get_rewards_grey_circle_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1488,
+        602,
+        58,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        58
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "okBtnFB",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        697,
+        765,
+        163,
+        70
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        163,
+        70
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Store_back_panel_center",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        920,
+        1,
+        2,
+        696
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        2,
+        696
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "red_close_disabled",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1871,
+        360,
+        61,
+        61
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        61,
+        61
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "popup_big_bg_1",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1,
+        1,
+        168,
+        755
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        168,
+        755
+      ],
+      "capInsets": [
+        55,
+        50,
+        58,
+        57
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_referral_button_plus_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        941,
+        327,
+        24,
+        26
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        24,
+        26
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_yellow_button_square_pressed",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        441,
+        1492,
+        63,
+        67
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        63,
+        67
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_shine_on_button_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1,
+        920,
+        153,
+        14
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        153,
+        14
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "disabledplay",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1527,
+        183,
+        65,
+        45
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        65,
+        45
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_red_sell_asset_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        769,
+        774,
+        114,
+        117
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        114,
+        117
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coin",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        549,
+        1720,
+        34,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        34,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_lobby_button_Disabled_state",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        256,
+        1097,
+        249,
+        109
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        249,
+        109
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_rewards_Promote_demote_banner",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        101,
+        1990,
+        49,
+        39
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        49,
+        39
+      ],
+      "capInsets": [
+        11,
+        12,
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_referral_have_friends_code_02",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1793,
+        625,
+        56,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        56,
+        56
+      ],
+      "capInsets": [
+        14,
+        14,
+        14,
+        13
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fb_profile_default",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1431,
+        699,
+        78,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        78
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "containter_)1",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1268,
+        1,
+        368,
+        83
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        368,
+        83
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Store_back_panel_below_top",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        1,
+        73,
+        530,
+        45
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        530,
+        45
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coin_stack_03",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        637,
+        1770,
+        184,
+        97
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        184,
+        97
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Circle",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        276,
+        734,
+        40,
+        40
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        40
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bluuton_yellow_01_pressed",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        319,
+        417,
+        199,
+        83
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        199,
+        85
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Coin_stack_03",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1158,
+        605,
+        87,
+        49
+      ],
+      "offset": [
+        0,
+        -5
+      ],
+      "originalSize": [
+        101,
+        101
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "trophy_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        843,
+        1512,
+        74,
+        72
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        74,
+        72
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_hidden_badge",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        699,
+        1,
+        203,
+        219
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        203,
+        219
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ccbParticleOrb",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1377,
+        934,
+        6,
+        6
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        6,
+        6
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loader-10",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1515,
+        521,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_gems_big_05",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        697,
+        699,
+        224,
+        198
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        224,
+        198
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "16",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1901,
+        740,
+        49,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        49,
+        33
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loader-7",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1660,
+        816,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_get_rewards_blue_container_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1621,
+        889,
+        50,
+        50
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        50,
+        50
+      ],
+      "capInsets": [
+        16,
+        17,
+        18,
+        19
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_get_rewards_tap_icon_disable_02",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        603,
+        1978,
+        44,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        44,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_gems_big_disable_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        403,
+        740,
+        180,
+        114
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        182,
+        114
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_lobby_button_pressed_state",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        660,
+        1099,
+        249,
+        109
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        249,
+        109
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "selected_button_01-(1)-(1)",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        276,
+        922,
+        240,
+        30
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        240,
+        30
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_referral_rewards_coin_stack_back_left_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1710,
+        430,
+        65,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        65,
+        58
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_rewards_Promote_demote_arrow",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        851,
+        1210,
+        51,
+        68
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        51,
+        68
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "play_online_icon",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        210,
+        738,
+        189,
+        150
+      ],
+      "offset": [
+        -1,
+        1
+      ],
+      "originalSize": [
+        193,
+        154
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "darkBgPlay",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        171,
+        1,
+        244,
+        339
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        244,
+        339
+      ],
+      "capInsets": [
+        30,
+        30,
+        30,
+        30
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "empty_star_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1853,
+        609,
+        56,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        56,
+        56
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Badge1",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        823,
+        1784,
+        99,
+        107
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        99,
+        107
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_coin_stack_pressed_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1730,
+        685,
+        58,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        56
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loader-6",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1656,
+        743,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_coin_glow_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1757,
+        302,
+        43,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        43,
+        44
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_clapper_normal_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1733,
+        564,
+        58,
+        61
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        61
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Store_back_panel_top",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        697,
+        625,
+        203,
+        72
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        203,
+        72
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_hidden_badge_02",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        697,
+        426,
+        197,
+        217
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        197,
+        217
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_referral_rewards_coin_stack_front_right_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        771,
+        684,
+        145,
+        88
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        145,
+        88
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_coin_stack_disable_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1733,
+        627,
+        58,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        56
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_gems_glow_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1903,
+        705,
+        33,
+        31
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        33,
+        31
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "qqqqqq",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1210,
+        451,
+        159,
+        154
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        159,
+        154
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_yellow_button_square_normal",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        851,
+        1263,
+        63,
+        67
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        63,
+        67
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_blue_pressed_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1293,
+        862,
+        78,
+        82
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        82
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "profile_info_pannel_dark",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        416,
+        923,
+        5,
+        52
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        5,
+        52
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "big_green_button_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        385,
+        346,
+        226,
+        216
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        226,
+        216
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_rewards_rank_playerinfo_header",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1266,
+        697,
+        79,
+        83
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        79,
+        83
+      ],
+      "capInsets": [
+        30,
+        30,
+        30,
+        20
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "add",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1897,
+        861,
+        36,
+        36
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        36,
+        36
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "play",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1004,
+        893,
+        65,
+        45
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        65,
+        45
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_Store_sell_tag",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1095,
+        792,
+        76,
+        91
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        76,
+        91
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "LUDO_IG_minus-sign_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        362,
+        923,
+        52,
+        17
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        52,
+        17
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loader-8",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1729,
+        743,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_get_rewards_grey_line_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        520,
+        558,
+        9,
+        10
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        9,
+        10
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "blue_button_01_disable",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        651,
+        1210,
+        198,
+        84
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        198,
+        84
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_diamond_badge_big",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        520,
+        713,
+        162,
+        167
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        162,
+        167
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_gems_big_02",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        404,
+        120,
+        217,
+        126
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        217,
+        126
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "okBtnFBpressed",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        918,
+        726,
+        163,
+        70
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        163,
+        70
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_referral_rewards_coin_stack_back_right_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1588,
+        526,
+        59,
+        66
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        59,
+        66
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_clapper_disable_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1673,
+        594,
+        58,
+        61
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        61
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "divider",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1904,
+        543,
+        3,
+        30
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        3,
+        30
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_rewards_pannel",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        520,
+        569,
+        4,
+        4
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        4,
+        4
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_get_rewards_grey_arrow_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1649,
+        567,
+        25,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        25,
+        32
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dash",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        625,
+        930,
+        135,
+        7
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        135,
+        7
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "big_blue_button",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        719,
+        73,
+        246,
+        252
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        246,
+        252
+      ],
+      "capInsets": [
+        18,
+        25,
+        16,
+        25
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "coin_stack_05",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        232,
+        1687,
+        186,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        186,
+        100
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Ludo_IG_get_rewards_green_arrow_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1055,
+        699,
+        25,
+        26
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        25,
+        26
+      ],
+      "rotated": 1,
+      "capInsets": [
+        8,
+        17,
+        9,
+        5
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_video_button_blue_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1347,
+        699,
+        78,
+        82
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        82
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "selected_button_03_v2",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        43,
+        2014,
+        40,
+        15
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        15
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fb_native_button_pressed",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        663,
+        346,
+        257,
+        48
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        257,
+        48
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "select_pressed_tickmark_disable",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        196,
+        1990,
+        36,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        36,
+        38
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "joinMsg_bg.9",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1588,
+        448,
+        58,
+        76
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        58,
+        76
+      ],
+      "capInsets": [
+        17,
+        16,
+        18,
+        19
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_leagues_rewards_player_demoted_info_banner_big",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        505,
+        1981,
+        48,
+        47
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        48,
+        47
+      ],
+      "rotated": 1,
+      "capInsets": [
+        10,
+        10,
+        10,
+        10
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ludo_ig_coin_gems_big",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        851,
+        1378,
+        54,
+        54
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        54,
+        54
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "small_disabled_button_01",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        363,
+        1986,
+        44,
+        45
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        44,
+        45
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Coin_stack_disable_04",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        210,
+        1789,
+        180,
+        106
+      ],
+      "offset": [
+        -4,
+        0
+      ],
+      "originalSize": [
+        188,
+        106
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Coin_stack_01",
+      "texture": "c9koow3flC7pWyAKs2j96n",
+      "rect": [
+        1673,
+        889,
+        59,
+        49
+      ],
+      "offset": [
+        3,
+        -1
+      ],
+      "originalSize": [
+        101,
+        101
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "LoadingCircleAnim",
+      "texture": "78vp+uWHxJ2649MHKLGa2L",
+      "rect": [
+        458,
+        1981,
+        45,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        45,
+        49
+      ]
+    }
+  }
+]

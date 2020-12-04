@@ -1,0 +1,339 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+    content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="full-screen" content="yes" />
+  <meta name="screen-orientation" content="portrait" />
+  <title>Jungle Merge</title>
+  <style>
+    * {
+      padding: 0;
+      margin: 0;
+    }
+
+    @font-face {
+      font-family: 'SFS';
+      src: url('font/sfs.ttf');
+    }
+
+    html,
+    body {
+      background: #3296c9;
+      overflow: hidden;
+    }
+
+    canvas {
+      display: block;
+      position: absolute;
+      bottom: 0px;
+      top: 0px;
+      left: 0px;
+      z-index: 10;
+    }
+
+    #console_log_div {
+      position: fixed;
+      border-top: 1px solid gray;
+      bottom: 0;
+      padding: 5px;
+      width: 99%;
+      max-width: 99%;
+      max-height: 300px;
+      background-color: #efefef;
+      overflow-x: hidden;
+      overflow-y: auto;
+      z-index: 0;
+    }
+
+    #console_log_div p {
+      color: green;
+      font-size: 18px;
+      font-weight: bold;
+      position: fixed;
+      width: 100%;
+      margin-top: -58px;
+      background: #efefef;
+      left: 0px;
+      padding: 5px 5px 0px 5px;
+    }
+
+    #console_log_div p b {
+      color: red;
+      float: right;
+      margin-right: 10px;
+      background: #FFFFFF;
+      padding: 5px 10px 5px 10px;
+      border-radius: 5px;
+      border: 1px solid #666666;
+    }
+
+    #console {
+      position: fixed;
+      color: white;
+      float: right;
+      right: 10px;
+      bottom: 10px;
+      background: #dddddd;
+      padding: 10px;
+      border-radius: 5px;
+      background: green;
+      font-family: monospace;
+      font-size: 18px;
+      z-index: 2000;
+    }
+  </style>
+
+  <script src="../../Util/loader.js"></script>
+
+  <script src="js/lib/lib.js"></script>
+  <script src="js/lib/tween.js"></script>
+  <script src="js/lib/howler.js"></script>
+  <script src="js/gameTimer.js"></script>
+
+  <script src="js/loadAssets.js"></script>
+  <script src="js/animalData.js"></script>
+
+  <script src="js/sprite.js"></script>
+
+  <script src="js/gameData.js"></script>
+
+  <script src="js/grid.js"></script>
+  <script src="js/tile.js"></script>
+  <script src="js/building.js"></script>
+  <script src="js/sidePanel.js"></script>
+  <script src="js/fortuneWheel.js"></script>
+
+  <script src="js/magicStar.js"></script>
+  <script src="js/earnedCoin.js"></script>
+  <script src="js/button.js"></script>
+  <script src="js/shopWindow.js"></script>
+  <script src="js/leaderboard.js"></script>
+  <script src="js/window.js"></script>
+  <script src="js/hexProgress.js"></script>
+  <script src="js/coinRain.js"></script>
+  <script src="js/mascot.js"></script>
+  <script src="js/handPointer.js"></script>
+
+  <script src="js/spriteAnimation.js"></script>
+  <script src="js/others.js"></script>
+
+  <script src="js/particle.js"></script>
+  <script src="js/animateNum.js"></script>
+  <script src="js/polygons.js"></script>
+  <script src="js/states.js"></script>
+  <script src="js/startState.js"></script>
+  <script src="js/menuState.js"></script>
+  <script src="js/gameState.js"></script>
+  <script src="js/input.js"></script>
+  <script src="js/canvas.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/setData.js"></script>
+  <script src="js/md/cityData.js"></script>
+</head>
+
+<body>
+
+  <script>
+    // "use strict";
+
+    function initGame() {
+
+      GAME = new Game(); // initialize the Game ...
+      GAME.run(); // Start the Game Loop ...
+
+      startMenuState(); // Change to the Menu scene ...
+
+      if (UlkaUtility) {
+        UlkaUtility.hideLoad();
+      }
+
+      console.log("WELCOME TO GAME DEVELOPMENT ...");
+    }
+
+    function startMenuState() {
+      setTimeout(function () {
+        GAME.nextState = States.MENU;
+      }, 2000);
+    }
+
+    function startAll() {
+
+      GAME_DATA = window.localStorage.getItem("JungleMergeGameData");
+      if (GAME_DATA) {
+        GAME_DATA = JSON.parse(GAME_DATA);
+        if (!GAME) initGame();
+      } else {
+        if (!GAME) setUpData();
+      }
+
+    }
+
+    function loadGame() {
+      theme_1 = new Howl({
+        src: ['audio/thema.mp3'],
+        autoplay: false,
+        loop: true,
+        volume: .2
+      });
+      buildSound = new Howl({
+        src: ['audio/buildBtn.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      unboxSound = new Howl({
+        src: ['audio/breakBox.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      mergeSound = new Howl({
+        src: ['audio/merge.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      buttonSound = new Howl({
+        src: ['audio/clickBtn.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      newBuildingSound = new Howl({
+        src: ['audio/newBuild.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      newLevelSound = new Howl({
+        src: ['audio/newLevelOpen.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      landLessSound = new Howl({
+        src: ['audio/landLess.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      coinSound = new Howl({
+        src: ['audio/coin.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      circleMidle = new Howl({
+        src: ['audio/circleMidle.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      addGiftSound = new Howl({
+        src: ['audio/addGift.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      starSound = new Howl({
+        src: ['audio/star.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      winSound = new Howl({
+        src: ['audio/winSpin.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      swapSound = new Howl({
+        src: ['audio/swapHomes.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      showboxSound = new Howl({
+        src: ['audio/showBox.mp3'],
+        autoplay: false,
+        loop: false,
+        volume: 1
+      });
+      loadImagesNeeded(true);
+
+    };
+
+    let isMobile = {
+      Android: function () {
+        return navigator.userAgent.match(/Android/i);
+      },
+      BlackBerry: function () {
+        return navigator.userAgent.match(/BlackBerry/i);
+      },
+      iOS: function () {
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+      },
+      Opera: function () {
+        return navigator.userAgent.match(/Opera Mini/i);
+      },
+      Windows: function () {
+        return navigator.userAgent.match(/IEMobile/i);
+      },
+      any: function () {
+        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+      }
+    };
+
+
+
+
+    window.onload = () => {
+      loadGame();
+      if (UlkaUtility) {
+        UlkaUtility.appendLoader();
+      }
+
+
+      if (isMobile.any() || isMobile.iOS()) {
+        openFullscreen();
+      }
+
+    };
+
+    function myFocusFunction() {
+      if (GAME && GAME.currentState.paused) {
+        GAME.currentState.paused = false;
+        GAME.currentState.greetUserWithEarning(true);
+      }
+    }
+
+
+
+
+
+
+    var elem = document.documentElement;
+    function openFullscreen() {
+      if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+      } else if (elem.mozRequestFullScreen) { /* Firefox */
+        elem.mozRequestFullScreen();
+      } else if (elem.webkitRequestFullscreen) { /* Chrome, Safari & Opera */
+        elem.webkitRequestFullscreen();
+      } else if (elem.msRequestFullscreen) { /* IE/Edge */
+        elem.msRequestFullscreen();
+      }
+
+
+    }
+
+
+
+  </script>
+</body>
+
+</html>

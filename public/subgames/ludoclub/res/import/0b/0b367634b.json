@@ -1,0 +1,5984 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_montserrat",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        897,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_czech_republic",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        321,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_burma",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        193,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_sri_lanka",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        1281,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_armenia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        65,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_kuwait",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        705,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_benin",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        129,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_the_bahamas",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        1345,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_svalbard",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        1281,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_macau",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        769,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_paraguay",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        1025,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_iran",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        641,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_qatar",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        1089,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_italy",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        641,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_south_sudan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        1281,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "country_sprite_sheet.plist",
+    "_spriteFrames": {
+      "flag_afghanistan": {
+        "__uuid__": "dfwSQ7EAZI54sz6KFSE69S"
+      },
+      "flag_albania": {
+        "__uuid__": "30VIlxsjlHops2wV3/jypJ"
+      },
+      "flag_algeria": {
+        "__uuid__": "d6m4xpVSFPvaySJWv7EMAp"
+      },
+      "flag_american_samoa": {
+        "__uuid__": "81J2xvN19KY6mIiATdOdkB"
+      },
+      "flag_andorra": {
+        "__uuid__": "70qunqIPBCCL9T9bJHh7BT"
+      },
+      "flag_angola": {
+        "__uuid__": "35ZkLJT5FGZ6FpNuABwa/D"
+      },
+      "flag_anguilla": {
+        "__uuid__": "39M3bFPDdEbaUYRaRrgC2x"
+      },
+      "flag_antarctica": {
+        "__uuid__": "6fAPyQEftEQ5tqqIWNMl30"
+      },
+      "flag_antigua_and_barbuda": {
+        "__uuid__": "d7dvI+9utHwIASGlnqurtz"
+      },
+      "flag_argentina": {
+        "__uuid__": "54JyZn+q9GJJnOjxSzPGE0"
+      },
+      "flag_armenia": {
+        "__uuid__": "05NlUruBNEN7PoBPYwd5oT"
+      },
+      "flag_aruba": {
+        "__uuid__": "7cdauN5FRKL44mT/W41cle"
+      },
+      "flag_australia": {
+        "__uuid__": "90tGWt/6RNp5mDqvH0dq3N"
+      },
+      "flag_austria": {
+        "__uuid__": "36A+OsvFxLPpSaz44WWJle"
+      },
+      "flag_azerbaijan": {
+        "__uuid__": "1aAzQy7BpEFbPZD9pObFvH"
+      },
+      "flag_bahrain": {
+        "__uuid__": "84p/tynRVODIBt1JNI00A+"
+      },
+      "flag_bangladesh": {
+        "__uuid__": "38u/ZLKFlCoIdYtBsB+eoN"
+      },
+      "flag_barbados": {
+        "__uuid__": "a3+eKiZeRL1IvnNW3eYlR6"
+      },
+      "flag_belarus": {
+        "__uuid__": "eanY/JTslOZI4EtlNu+lV0"
+      },
+      "flag_belgium": {
+        "__uuid__": "438dZyYlpP2qz6Rwx6vRTi"
+      },
+      "flag_belize": {
+        "__uuid__": "c3UnsVZGdD6rig7rwitvhW"
+      },
+      "flag_benin": {
+        "__uuid__": "06hhiemo9OGY6aZO+u6G+0"
+      },
+      "flag_bermuda": {
+        "__uuid__": "26+/nZr6pKHoBy4ciOXYHJ"
+      },
+      "flag_bhutan": {
+        "__uuid__": "e5aRKvkvBAV4Pkv2adK3T8"
+      },
+      "flag_bolivia": {
+        "__uuid__": "3b/c47S0FNwb+qPjrRqKuX"
+      },
+      "flag_bosnia_and_herzegovina": {
+        "__uuid__": "64+9gU0+lCf6AhOP5oJ/3d"
+      },
+      "flag_botswana": {
+        "__uuid__": "c3uHmUuI9Nk6jhnLU8vCcy"
+      },
+      "flag_bouvet_island": {
+        "__uuid__": "7239xxD7dLc4H3HYbVmhjU"
+      },
+      "flag_brazil": {
+        "__uuid__": "3an+7Wx4RALpuPFkEss4eF"
+      },
+      "flag_british_indian_ocean_territory": {
+        "__uuid__": "d8IrenXnZDhohzUQXeafW9"
+      },
+      "flag_british_virgin_islands": {
+        "__uuid__": "c5e+BtlzZPTr2C7TMcFndp"
+      },
+      "flag_brunei": {
+        "__uuid__": "4aOouXmDNDXJWTgJNcRWFM"
+      },
+      "flag_bulgaria": {
+        "__uuid__": "7brgWHX8lMHasYqAEPUVSO"
+      },
+      "flag_burkina_faso": {
+        "__uuid__": "15GbzwI4lD7IZcUxws96a7"
+      },
+      "flag_burma": {
+        "__uuid__": "02eGKSVJFH5qPIobGEBRS8"
+      },
+      "flag_burundi": {
+        "__uuid__": "a9hCqYDCxEa4PBVrEhYMCv"
+      },
+      "flag_cambodia": {
+        "__uuid__": "86dkdo251L2Z4zDxtpN41q"
+      },
+      "flag_cameroon": {
+        "__uuid__": "497etNefNLz5irgTDAbtsz"
+      },
+      "flag_canada": {
+        "__uuid__": "9bzhiihKRFyJRyHHaVeITO"
+      },
+      "flag_cape_verde": {
+        "__uuid__": "b7lzX9kMpCHZhEQdynPifh"
+      },
+      "flag_cayman_islands": {
+        "__uuid__": "a8Ke7N1O9FWbIZzo9358Wz"
+      },
+      "flag_central_african_republic": {
+        "__uuid__": "62TmD9a0NHVrYE8lA0W3zL"
+      },
+      "flag_chad": {
+        "__uuid__": "a3C0cAJYRNIZY58Cv7ixHt"
+      },
+      "flag_chile": {
+        "__uuid__": "f83+tvfedOgqQRfpEv7RUj"
+      },
+      "flag_china": {
+        "__uuid__": "1aJMOAij9K27t8QJ/tPyzo"
+      },
+      "flag_christmas_island": {
+        "__uuid__": "9dEM2bAFZGtKjBKl6S+eF4"
+      },
+      "flag_cocos_(keeling)_islands": {
+        "__uuid__": "dcpM2aed9HTLeMl9/ViMZr"
+      },
+      "flag_colombia": {
+        "__uuid__": "2euaKhDlBJhIupFoNW4Xqt"
+      },
+      "flag_comoros": {
+        "__uuid__": "50LXaGzExD2LJw5M9yjkIm"
+      },
+      "flag_congo": {
+        "__uuid__": "85v5Jv0+RIYY2HVMM4bD0r"
+      },
+      "flag_cook_islands": {
+        "__uuid__": "94TghYAl9BJpvMJLW9jFGV"
+      },
+      "flag_costa_rica": {
+        "__uuid__": "15L0FxOP9KLKEx0hx1mNsG"
+      },
+      "flag_cote_d'ivoire": {
+        "__uuid__": "b6047bfABFt4GSWeSwoHCs"
+      },
+      "flag_croatia": {
+        "__uuid__": "5fswkwtwZACIc2ULUEpqfG"
+      },
+      "flag_cuba": {
+        "__uuid__": "95FNNkUyNCVIrcDoppLlui"
+      },
+      "flag_cyprus": {
+        "__uuid__": "efJObwMQhARZkMF4ZOJiqr"
+      },
+      "flag_czech_republic": {
+        "__uuid__": "008qN8/1BEWpH5fFWm7wXj"
+      },
+      "flag_denmark": {
+        "__uuid__": "52hAd8IHNIMp4ObWEFwBlh"
+      },
+      "flag_djibouti": {
+        "__uuid__": "22MIUal89G65YyueOq29vM"
+      },
+      "flag_dominica": {
+        "__uuid__": "a7O69nP3FOFIZzhQE6mNwQ"
+      },
+      "flag_dominican_republic": {
+        "__uuid__": "40ja3DDTpEw5r6z8wTrdnc"
+      },
+      "flag_dr_congo": {
+        "__uuid__": "200Ap2C+hM2Iq23TLesAMa"
+      },
+      "flag_ecuador": {
+        "__uuid__": "9fgOEIEipMN6cV9hJ7fSQF"
+      },
+      "flag_egypt": {
+        "__uuid__": "126iG7rO9EcotFglho2OS/"
+      },
+      "flag_england": {
+        "__uuid__": "f9KX7CwI9G/oiBChcZEQtC"
+      },
+      "flag_equatorial_guinea": {
+        "__uuid__": "d0wsr9vWxKHZlugc0kQ7xV"
+      },
+      "flag_eritera": {
+        "__uuid__": "f3+oPJE1ZIrqHTgkpiNwY9"
+      },
+      "flag_estonia": {
+        "__uuid__": "863FqopkRP7KSVIXvc0pcw"
+      },
+      "flag_ethiopia": {
+        "__uuid__": "9dL4x2b6xLFroJV7EESCaN"
+      },
+      "flag_falkland islands": {
+        "__uuid__": "b6IHaAESRBibFGFloz+Qt0"
+      },
+      "flag_faroe_islands": {
+        "__uuid__": "f3vqSWyMlLop80/mFj5ply"
+      },
+      "flag_federated_states_of_micronesia": {
+        "__uuid__": "53IlhXd0lLLJ0O3KcTjjou"
+      },
+      "flag_fiji": {
+        "__uuid__": "d4wjFUJFNBY42etbrpZiBB"
+      },
+      "flag_finland": {
+        "__uuid__": "50ByrMhuVDLKXhqdCnOST4"
+      },
+      "flag_france": {
+        "__uuid__": "4c43LSptdNvKIB7kzf5MjN"
+      },
+      "flag_french_polynesia": {
+        "__uuid__": "d1FiSze2dMjqlPyosaQjZG"
+      },
+      "flag_french_southern_and_antarctic_lands": {
+        "__uuid__": "9bzZukDotGaornn/AxT5Du"
+      },
+      "flag_gabon": {
+        "__uuid__": "ff2r3/851AuZbDiU17wblQ"
+      },
+      "flag_gaza_strip": {
+        "__uuid__": "ff+XRvjVhM0bIR9izjSgA/"
+      },
+      "flag_georgia": {
+        "__uuid__": "93iliTLo9F0YxzmGvDsfCh"
+      },
+      "flag_germany": {
+        "__uuid__": "5cW1L9H3JO27A2Q3BR7wFn"
+      },
+      "flag_ghana": {
+        "__uuid__": "1eIRbdZEdNtZs0AVDwc3fy"
+      },
+      "flag_gibraltar": {
+        "__uuid__": "f07IMOv6hGpY39iRhrnWFc"
+      },
+      "flag_greece": {
+        "__uuid__": "e0UuG1KBZBiodQjDaerwE3"
+      },
+      "flag_greenland": {
+        "__uuid__": "c4Ig45KetAEbknejjxuAvT"
+      },
+      "flag_grenada": {
+        "__uuid__": "edwmUIB6pC2bVqamDTB7Vk"
+      },
+      "flag_guam": {
+        "__uuid__": "61I9lLjMVGvI+7QC/IgCsj"
+      },
+      "flag_guatemala": {
+        "__uuid__": "2bCKMpI6tOs5uOUONtLP+U"
+      },
+      "flag_guernsey": {
+        "__uuid__": "3d1W6EJUtJDJ7T4jLgcAV7"
+      },
+      "flag_guinea": {
+        "__uuid__": "be99zKFp1AbpVoUxTLSUHb"
+      },
+      "flag_guinea_bissau": {
+        "__uuid__": "90ppIfT/lK4IZV9FKTJs92"
+      },
+      "flag_guyana": {
+        "__uuid__": "ff6aP536xCr731G+qeRU/A"
+      },
+      "flag_haiti": {
+        "__uuid__": "c6vivjLWtC5IUzJxB7Ackn"
+      },
+      "flag_heard_island_and_mcdonald _islands": {
+        "__uuid__": "87BJa7bI9D9bLdcZ/Kchl5"
+      },
+      "flag_holy_see_(vatican_city)": {
+        "__uuid__": "68o87hmc5CZqHBnZMHKzDY"
+      },
+      "flag_honduras": {
+        "__uuid__": "9bzuLPe79NkaxKdtZzLcnH"
+      },
+      "flag_hong_kong": {
+        "__uuid__": "cbba7OEMJKtoS9UDT/sIJx"
+      },
+      "flag_hungary": {
+        "__uuid__": "68HU3s0IFOdKqKgJ4G7RRY"
+      },
+      "flag_iceland": {
+        "__uuid__": "d16IayCLdDNpxTEWwE1t+v"
+      },
+      "flag_india": {
+        "__uuid__": "63AdnCCXlJSrdEI/z+H2ku"
+      },
+      "flag_indonesia": {
+        "__uuid__": "51ermEJl9MgZSSCEAr1TK2"
+      },
+      "flag_iran": {
+        "__uuid__": "0b8PA9vF9KEq1whZgF9060"
+      },
+      "flag_iraq": {
+        "__uuid__": "4a3ynPivJATJB2x8wLaZ7d"
+      },
+      "flag_ireland": {
+        "__uuid__": "cb5iM7G0NF+ac2gaosIpZB"
+      },
+      "flag_isle_of_man": {
+        "__uuid__": "b6g3ZQVn5HIL4rsFNo/adn"
+      },
+      "flag_israel": {
+        "__uuid__": "fdS3DQzI5POKaAShl0pd+H"
+      },
+      "flag_italy": {
+        "__uuid__": "0dNIJaob5Ep4HmBD+e6+Km"
+      },
+      "flag_jamaica": {
+        "__uuid__": "da5Bz1jiJIaqIHVXAq/ml1"
+      },
+      "flag_japan": {
+        "__uuid__": "80k9DhJixAUIa1alOKX17S"
+      },
+      "flag_jersey": {
+        "__uuid__": "99L4mEWshGCqUJKGivFj8c"
+      },
+      "flag_jordan": {
+        "__uuid__": "3djXdo+tpEaY+xwnMoYgLs"
+      },
+      "flag_kazakhstan": {
+        "__uuid__": "cd6av7OVRLS4WkTkBQz3wZ"
+      },
+      "flag_kenya": {
+        "__uuid__": "b2mNxM4R5AiKsqasz3Uk+6"
+      },
+      "flag_kiribati": {
+        "__uuid__": "29jvqaq15GnLxbO3crF0h0"
+      },
+      "flag_kosovo": {
+        "__uuid__": "31DzZyeu1BE707v/cjtZ9i"
+      },
+      "flag_kuwait": {
+        "__uuid__": "05cF1QJGRHl7WWLz+ZSfoZ"
+      },
+      "flag_kyrgyzstan": {
+        "__uuid__": "1e4YO8BmJDqKOX5ff4GpIY"
+      },
+      "flag_laos": {
+        "__uuid__": "8eGJ1RhjdObKFwqjyGP9Mx"
+      },
+      "flag_latvia": {
+        "__uuid__": "82L/or2sdBxbbVJetT2zcb"
+      },
+      "flag_lebanon": {
+        "__uuid__": "dcwAVye7FO/onabfmoO0mZ"
+      },
+      "flag_lesotho": {
+        "__uuid__": "c8+pQcdK1DsL84vpGvqGWg"
+      },
+      "flag_liberia": {
+        "__uuid__": "e3KxDhn4JOJYCULNSmue3K"
+      },
+      "flag_libya": {
+        "__uuid__": "53802EjkVK875lBK93jdGM"
+      },
+      "flag_liechtenstein": {
+        "__uuid__": "66lILLV1pA45n14LEd3nq5"
+      },
+      "flag_lithuania": {
+        "__uuid__": "55UfIhUXNDfrTm6wxShEdp"
+      },
+      "flag_luxembourg": {
+        "__uuid__": "9a0v1QiB9KQKxoMV82JCML"
+      },
+      "flag_macau": {
+        "__uuid__": "0aOhtY3lpEkYFGPL3LAx6v"
+      },
+      "flag_macedonia": {
+        "__uuid__": "aaPrPY3g5BbpUOi6Ux/Jsh"
+      },
+      "flag_madagascar": {
+        "__uuid__": "fbqMO+xlpMQ6c/iyRzn78i"
+      },
+      "flag_malawi": {
+        "__uuid__": "f53KZCMpVKsqBoYTvHP3g4"
+      },
+      "flag_malaysia": {
+        "__uuid__": "1fA9xGKBxN/IPjSnKUo9+s"
+      },
+      "flag_maldives": {
+        "__uuid__": "92RYau5ptFZI5GtgnjoPQL"
+      },
+      "flag_mali": {
+        "__uuid__": "88c0CFRSdEfp/FO08pKqST"
+      },
+      "flag_malta": {
+        "__uuid__": "b7OCxU3DtBNJeEU6DqAwtL"
+      },
+      "flag_marshall_islands": {
+        "__uuid__": "2fDQJRzvRLoZnOduWbzfPK"
+      },
+      "flag_mauritania": {
+        "__uuid__": "7aU38YxhpPRpUxGK2lg51g"
+      },
+      "flag_mauritius": {
+        "__uuid__": "ca74StzCZMwKnFUoFga6ka"
+      },
+      "flag_mayotte": {
+        "__uuid__": "3ab7rlnN5Oa62Wn9kHl8hf"
+      },
+      "flag_mexico": {
+        "__uuid__": "6dnM6Qs6BDgofIDshuwQJj"
+      },
+      "flag_moldova": {
+        "__uuid__": "d9uQl1gJ1KMo/QNrpjMKJH"
+      },
+      "flag_monaco": {
+        "__uuid__": "51dtgXSqxETaJRCGujiNi6"
+      },
+      "flag_mongolia": {
+        "__uuid__": "4aMOYTqP9Ii53iT/pwoZu5"
+      },
+      "flag_montenegro": {
+        "__uuid__": "767a8n561COZ3Qez+mm0EP"
+      },
+      "flag_montserrat": {
+        "__uuid__": "00Z5auPYlFY7pVpHU6G7mN"
+      },
+      "flag_morocco": {
+        "__uuid__": "d3vPYpOzZDs6on3uyRhVXD"
+      },
+      "flag_mozambique": {
+        "__uuid__": "8fEbXjb6BD+paeQJubVV1Z"
+      },
+      "flag_namibia": {
+        "__uuid__": "55SoDBlptHnp8kzsICJG/a"
+      },
+      "flag_nauru": {
+        "__uuid__": "4bmwVcXEBOY7HIGr9kF8je"
+      },
+      "flag_nepal": {
+        "__uuid__": "c0Xm9jibZPmrZzhLhU7rEF"
+      },
+      "flag_netherlands": {
+        "__uuid__": "8agSzuZxJNBpUyS6fcF+tz"
+      },
+      "flag_netherlands_antilles": {
+        "__uuid__": "4fInMEZKhLAbPenLvMsoUn"
+      },
+      "flag_new_caledonia": {
+        "__uuid__": "46HaEM3C5JBpfsWqGoTLoN"
+      },
+      "flag_new_zealand": {
+        "__uuid__": "9dULVPN/dL77+6lwkLHPHq"
+      },
+      "flag_nicaragua": {
+        "__uuid__": "95kc7i7tBHI62/yt0PKa0S"
+      },
+      "flag_niger": {
+        "__uuid__": "3eH3vh781H4aFrWW6fBbeU"
+      },
+      "flag_nigeria": {
+        "__uuid__": "80UCFev/xNYIt9PVY92oCo"
+      },
+      "flag_niue": {
+        "__uuid__": "92vVjeZtZLDIUE76PXKTk1"
+      },
+      "flag_norfolk_island": {
+        "__uuid__": "e4nRI4BcdNppQb6Vx9RY6D"
+      },
+      "flag_north_korea": {
+        "__uuid__": "6c2ueuzBdAK4auQrMYt1vJ"
+      },
+      "flag_northern_mariana_islands": {
+        "__uuid__": "c5y/sCBBNPM45TGKWZgVL/"
+      },
+      "flag_norway": {
+        "__uuid__": "36t4nPPm9I6aKZEMu1vE8Q"
+      },
+      "flag_oman": {
+        "__uuid__": "f433Pzh6JAOJkrlg2UpQlo"
+      },
+      "flag_pakistan": {
+        "__uuid__": "8cdKpqC+VOLZFErxRSjiA3"
+      },
+      "flag_palau": {
+        "__uuid__": "eb3HV817FHlowQ9dgVkTWJ"
+      },
+      "flag_panama": {
+        "__uuid__": "9dWoy4Wi9D7qyFMU1SVrLO"
+      },
+      "flag_papua_new_guinea": {
+        "__uuid__": "686FlrsyhEv4OyPg749SUF"
+      },
+      "flag_paraguay": {
+        "__uuid__": "0bpcj41E5IAKD8B4XOVrGQ"
+      },
+      "flag_peru": {
+        "__uuid__": "b3gPgOKLNEnIha6hkKWIeS"
+      },
+      "flag_philippines": {
+        "__uuid__": "50kzLn5b1ETJWsI2RXhb/B"
+      },
+      "flag_pitcairn_islands": {
+        "__uuid__": "bb+EmJYBRDSoroEFzxAjsP"
+      },
+      "flag_poland": {
+        "__uuid__": "74lZrUFJZBhopT18NhTNh9"
+      },
+      "flag_portugal": {
+        "__uuid__": "81QzlrBfZAS68o/dxWXU7G"
+      },
+      "flag_puerto_rico": {
+        "__uuid__": "91c69FMg1O0Jt4LbclS8qm"
+      },
+      "flag_qatar": {
+        "__uuid__": "0cvDpqlaVC84EpvV9ps7M9"
+      },
+      "flag_romania": {
+        "__uuid__": "f2B4MApeJHCLNkzYY+AQpe"
+      },
+      "flag_russia": {
+        "__uuid__": "26kN4zllRGvI6o24yk1sGe"
+      },
+      "flag_rwanda": {
+        "__uuid__": "aahmriGfpFXoHFyrqu5Jps"
+      },
+      "flag_saint_helena_ascension": {
+        "__uuid__": "83MBN7oF1CBp6jKtrjWZoV"
+      },
+      "flag_saint_kitts_and_nevis": {
+        "__uuid__": "82kCSTEt9DMIhqMtQjne+n"
+      },
+      "flag_saint_lucia": {
+        "__uuid__": "15rIWhVP5J1p/BDHcesB3T"
+      },
+      "flag_saint_pierre_and_miquelon": {
+        "__uuid__": "28ehNxyCROwqUCX1sfw9IQ"
+      },
+      "flag_saint_vincent_and_the_grenadines": {
+        "__uuid__": "d6W6AwHI9BMbpfNCsa0dXb"
+      },
+      "flag_salvador": {
+        "__uuid__": "892hIQucRBwoNbaYn7sjMl"
+      },
+      "flag_samoa": {
+        "__uuid__": "30AmujEd9DsailFFe93qdR"
+      },
+      "flag_san_marino": {
+        "__uuid__": "d1iDzMfNNG07JYf19tZeUq"
+      },
+      "flag_sao_tome_and_principe": {
+        "__uuid__": "ffr5IzkV1DCLlMP05SkgQe"
+      },
+      "flag_saudi-arabia": {
+        "__uuid__": "409feFSYpPlZIdm/5gY+/p"
+      },
+      "flag_scotland": {
+        "__uuid__": "20CcblBzlM67lLIdv06tba"
+      },
+      "flag_senegal": {
+        "__uuid__": "8eL2PtD7pKf6KD6960WorD"
+      },
+      "flag_serbia": {
+        "__uuid__": "f3oM8pllVKxYJWGYafEAkz"
+      },
+      "flag_seychelles": {
+        "__uuid__": "5enrUrSZNAQZ3vgYVeCrZ0"
+      },
+      "flag_sierra_leone": {
+        "__uuid__": "7aR+6It8dCKovbpO+c9bAO"
+      },
+      "flag_singapore": {
+        "__uuid__": "7a2SETR19EcaLRxGv1x5FG"
+      },
+      "flag_slovakia": {
+        "__uuid__": "8bSBDh0HhKt6xGUjIyYs12"
+      },
+      "flag_slovenia": {
+        "__uuid__": "61oV/aWo5IfY80dfRx4981"
+      },
+      "flag_solomon_islands": {
+        "__uuid__": "3cpVws6gZKBqIygBFu8cux"
+      },
+      "flag_somalia": {
+        "__uuid__": "1dB7D+gwhNHaaAll93AQlv"
+      },
+      "flag_south_africa": {
+        "__uuid__": "3dCoZsRQxIPajoUiiJRX+b"
+      },
+      "flag_south_georgia_and_the_south_sandwich_islands": {
+        "__uuid__": "45ElmJA7RNJZZgWeXdITdU"
+      },
+      "flag_south_korea": {
+        "__uuid__": "e4FoIjUMBARZM89er+bW8F"
+      },
+      "flag_south_sudan": {
+        "__uuid__": "0d3dTsDFxATaqO00OC2zak"
+      },
+      "flag_spain": {
+        "__uuid__": "41jKNxtrlC84GmK0LYaPiY"
+      },
+      "flag_sri_lanka": {
+        "__uuid__": "04t3VLZzlMs6Ao0be0Jv2O"
+      },
+      "flag_sudan": {
+        "__uuid__": "55UrNO3xRLtrXDBqJlaMVS"
+      },
+      "flag_suriname": {
+        "__uuid__": "6b42lMae5Doq8qxgbO769Z"
+      },
+      "flag_svalbard": {
+        "__uuid__": "08KDvih6RE/JUsBaXFg16o"
+      },
+      "flag_swaziland": {
+        "__uuid__": "4e6Hz0e79FYIXE+6yDsiQG"
+      },
+      "flag_sweden": {
+        "__uuid__": "a9ac3cIV9Gmo+JJfAMgtmn"
+      },
+      "flag_switzerland": {
+        "__uuid__": "e42eyljAhKNoQX8EHxEJQn"
+      },
+      "flag_syria": {
+        "__uuid__": "7eFb2oG5JIk76NFjPdTXSS"
+      },
+      "flag_taiwan": {
+        "__uuid__": "edVJypxd5MU6jchjiqwquN"
+      },
+      "flag_tajikistan": {
+        "__uuid__": "585Bh7IU9DWZt3t0vWqn2m"
+      },
+      "flag_tanzania": {
+        "__uuid__": "82oAhETJlLabP/+4THHyw9"
+      },
+      "flag_thailand": {
+        "__uuid__": "73WYhstgBIN4PK7kT3ozJc"
+      },
+      "flag_the_bahamas": {
+        "__uuid__": "06xfilD9tM04GlV+K62scP"
+      },
+      "flag_the_gambia": {
+        "__uuid__": "89BcaVaKxDQrU0qdsy2FJJ"
+      },
+      "flag_timor": {
+        "__uuid__": "7dU1ekcK1NhbmcyiV/O2eC"
+      },
+      "flag_togo": {
+        "__uuid__": "62cPknSCxIdo1L2XzBXPyQ"
+      },
+      "flag_tokelau": {
+        "__uuid__": "28f6FxqJBGRrr1B/4wE8ra"
+      },
+      "flag_tonga": {
+        "__uuid__": "90AMgymLVPDLshjBQVQ2Ri"
+      },
+      "flag_trinidad_and_tobago": {
+        "__uuid__": "8ffNkG2AtJkrTheR26MQqg"
+      },
+      "flag_tunisia": {
+        "__uuid__": "e6XejqZuNFlq9N+84A/QQa"
+      },
+      "flag_turkey": {
+        "__uuid__": "4ahQt13ppAw7aQ8NkWJXCv"
+      },
+      "flag_turkmenistan": {
+        "__uuid__": "789duyuk9Ip5E75+k64eCa"
+      },
+      "flag_turks_and_caicos_islands": {
+        "__uuid__": "1d74Y3kwZLo7dmpqyK4KCm"
+      },
+      "flag_tuvalu": {
+        "__uuid__": "b1G74uvUBGIohnleyssJ7N"
+      },
+      "flag_uganda": {
+        "__uuid__": "2d3zQ4cRlAo4VRpfWA3SWj"
+      },
+      "flag_ukraine": {
+        "__uuid__": "52lm6AGTRPU69NQsZCzgFz"
+      },
+      "flag_united_arab_emirates": {
+        "__uuid__": "bd/FpJOIVO2oYn1Q4Js5t3"
+      },
+      "flag_united_kingdom": {
+        "__uuid__": "b3vXfHIahG8I6pEr6LYhwf"
+      },
+      "flag_united_state_of_america": {
+        "__uuid__": "72wVFJNLJKY7fGq7yL9NLs"
+      },
+      "flag_uruguay": {
+        "__uuid__": "19b90p6/BEZ6DE/s5r1bLQ"
+      },
+      "flag_uzbekistan": {
+        "__uuid__": "17b/WWrk1JpJfow3YsJ/2X"
+      },
+      "flag_vanuatu": {
+        "__uuid__": "20e6AL/7VPQLRFaLUrCBmN"
+      },
+      "flag_venezuela": {
+        "__uuid__": "1eahWIAZVHzJVq0q4w2QmH"
+      },
+      "flag_vietnam": {
+        "__uuid__": "3eWHM8mXVP356DvEACKyhM"
+      },
+      "flag_virgin_islands": {
+        "__uuid__": "82xZ9ILqpEKJ2LHYvjyxdJ"
+      },
+      "flag_wales": {
+        "__uuid__": "3fybMsE1pPNZKFq2H9Caqk"
+      },
+      "flag_wallis_and_futuna": {
+        "__uuid__": "b5FhtDhFBCA6VSzuq6EyMB"
+      },
+      "flag_western_sahara": {
+        "__uuid__": "e2JnU2r9hOZI0qHUuQvyut"
+      },
+      "flag_world": {
+        "__uuid__": "a7Purj/qhPQ5p6vU8kRcFv"
+      },
+      "flag_world_01": {
+        "__uuid__": "7azt3rLu1KEKHMz4+AQ9eC"
+      },
+      "flag_world_02": {
+        "__uuid__": "3597CwtqdFSpSAcgD55u7C"
+      },
+      "flag_world_03": {
+        "__uuid__": "52zZrsKd1EArqBXBGWfMtK"
+      },
+      "flag_world_04": {
+        "__uuid__": "c22ORDZI9A2b58kI7yWGlQ"
+      },
+      "flag_yemen": {
+        "__uuid__": "b27JnoGk1D9rED1TflzEQh"
+      },
+      "flag_zambia": {
+        "__uuid__": "acXms86M1Exoa5ZURJ5NrL"
+      },
+      "flag_zimbabwe": {
+        "__uuid__": "afQJC1FpFJCIRVBfcnYEW4"
+      },
+      "shadow": {
+        "__uuid__": "e1nskpNS5Jj5dNP8w6zqUG"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_egypt",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        385,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_burkina_faso",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        193,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_costa_rica",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        321,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_saint_lucia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        1123,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_uzbekistan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        1473,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_uruguay",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        1473,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_azerbaijan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        65,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_china",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        257,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_somalia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        1217,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_turks_and_caicos_islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        1409,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_ghana",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        513,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_venezuela",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        1473,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_kyrgyzstan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        705,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_malaysia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        833,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_scotland",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        1153,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_vanuatu",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        1473,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_dr_congo",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        385,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_djibouti",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        321,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_russia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        1089,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_bermuda",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        129,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_saint_pierre_and_miquelon",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        1153,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_tokelau",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        1345,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_kiribati",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        705,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_guatemala",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        513,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_uganda",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        1409,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_colombia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        257,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_marshall_islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        833,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_samoa",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        1153,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_albania",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        1,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_kosovo",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        705,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_angola",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        1,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_world_02",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        1537,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_austria",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        65,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_norway",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        1025,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_bangladesh",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        65,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_anguilla",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        1,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_mayotte",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        833,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_brazil",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        129,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_bolivia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        129,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_solomon_islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        1217,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_south_africa",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        1217,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_jordan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        705,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_guernsey",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        513,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_niger",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        961,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_vietnam",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        1473,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_wales",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        1473,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_dominican_republic",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        385,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_saudi-arabia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        1153,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_spain",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        1281,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_belgium",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        99,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_south_georgia_and_the_south_sandwich_islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        1217,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_new_caledonia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        961,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_cameroon",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        193,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_mongolia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        897,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_brunei",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        193,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_turkey",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        1409,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_iraq",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        641,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_nauru",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        897,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_france",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        449,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_swaziland",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        1281,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_netherlands_antilles",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        961,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_finland",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        449,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_comoros",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        257,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_philippines",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        1025,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_monaco",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        897,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_indonesia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        641,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_denmark",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        321,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_ukraine",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        1409,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_world_03",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        1537,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_federated_states_of_micronesia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        449,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_libya",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        769,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_argentina",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        35,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_namibia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        897,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_lithuania",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        769,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_sudan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        1281,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_tajikistan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        1345,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_germany",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        513,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_seychelles",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        1217,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_croatia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        321,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_guam",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        513,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_slovenia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        1217,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_central_african_republic",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        257,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_togo",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        1345,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_india",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        611,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_bosnia_and_herzegovina",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        129,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_liechtenstein",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        769,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_hungary",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        577,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_holy_see_(vatican_city)",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        577,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_papua_new_guinea",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        1025,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_suriname",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        1281,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_north_korea",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        961,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_mexico",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        833,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_antarctica",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        1,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_andorra",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        1,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_united_state_of_america",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        1473,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_bouvet_island",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        129,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_thailand",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        1345,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_poland",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        1089,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_montenegro",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        897,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_turkmenistan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        1409,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_sierra_leone",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        1217,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_mauritania",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        833,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_world_01",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        1537,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_singapore",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        1217,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_bulgaria",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        193,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_aruba",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        65,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_timor",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        1345,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_syria",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        1315,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_nigeria",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        961,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_japan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        641,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_american_samoa",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        1,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_portugal",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        1089,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_latvia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        705,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_saint_kitts_and_nevis",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        1089,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_tanzania",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        1345,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_virgin_islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        1473,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_saint_helena_ascension",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        1089,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_bahrain",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        65,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_congo",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        291,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_cambodia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        193,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_estonia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        385,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_heard_island_and_mcdonald _islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        577,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_mali",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        833,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_the_gambia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        1345,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_salvador",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        1153,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_netherlands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        931,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_slovakia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        1217,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_pakistan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        1025,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_laos",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        705,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_senegal",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        1153,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_mozambique",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        897,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_trinidad_and_tobago",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        1409,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_tonga",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        1379,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_guinea_bissau",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        577,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_australia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        65,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_puerto_rico",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        1089,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_maldives",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        833,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_niue",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        961,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_georgia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        483,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_cook_islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        321,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_cuba",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        321,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_nicaragua",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        961,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_jersey",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        675,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_luxembourg",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        769,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_french_southern_and_antarctic_lands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        449,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_canada",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        193,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_honduras",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        577,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_christmas_island",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        257,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_ethiopia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        385,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_new_zealand",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        961,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_panama",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        1025,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_ecuador",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        385,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_chad",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        257,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_barbados",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        65,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_dominica",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        355,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_world",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        1537,
+        96,
+        64
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        64
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_cayman_islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        257,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_sweden",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        1281,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_burundi",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        193,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_macedonia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        769,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_rwanda",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        1089,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_zambia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        1537,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_zimbabwe",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        1537,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_tuvalu",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        1409,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_kenya",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        705,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_yemen",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        1537,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_peru",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        1025,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_united_kingdom",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        1443,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_wallis_and_futuna",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        1473,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_falkland islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        419,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_isle_of_man",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        641,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_cote_d'ivoire",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        321,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_malta",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        833,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_cape_verde",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        227,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_pitcairn_islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        1059,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_united_arab_emirates",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        1409,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_guinea",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        547,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_nepal",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        897,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_world_04",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        1537,
+        64,
+        64
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        66,
+        66
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_belize",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        129,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_botswana",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        129,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_greenland",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        513,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_british_virgin_islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        193,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_northern_mariana_islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        995,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_haiti",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        577,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_lesotho",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        769,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_mauritius",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        833,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_hong_kong",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        577,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_ireland",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        641,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_kazakhstan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        705,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_equatorial_guinea",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        385,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_french_polynesia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        449,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_san_marino",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        1153,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_iceland",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        577,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_morocco",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        897,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_fiji",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        449,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_saint_vincent_and_the_grenadines",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        1153,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_algeria",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        1,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_antigua_and_barbuda",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        1,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_british_indian_ocean_territory",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        163,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_moldova",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        867,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_jamaica",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        641,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_cocos_(keeling)_islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        257,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_lebanon",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        739,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_afghanistan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        1,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_greece",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        513,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shadow",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        1,
+        96,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_western_sahara",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        1507,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_liberia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        769,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_south_korea",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        1251,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_norfolk_island",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        961,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_switzerland",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        1281,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_bhutan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        129,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_tunisia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        1409,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_belarus",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        65,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_palau",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        1025,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_taiwan",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        1345,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_grenada",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        513,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_cyprus",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        321,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_gibraltar",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        295,
+        513,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_romania",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        1089,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_serbia",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        1187,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_faroe_islands",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        99,
+        449,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_eritera",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        687,
+        385,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_oman",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        1025,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_malawi",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        1,
+        803,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_chile",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        393,
+        257,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_england",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        491,
+        385,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_madagascar",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        769,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_israel",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        641,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_sao_tome_and_principe",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        589,
+        1153,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_gabon",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        785,
+        449,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_guyana",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        197,
+        577,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flag_gaza_strip",
+      "texture": "9ee/no/HVM0rag7uzl7+su",
+      "rect": [
+        883,
+        449,
+        96,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        62
+      ]
+    }
+  }
+]

@@ -1,0 +1,76 @@
+
+confetti.png
+size: 223,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Symbol 10
+  rotate: false
+  xy: 189, 57
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+images/Symbol 11
+  rotate: false
+  xy: 189, 34
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+images/Symbol 12
+  rotate: false
+  xy: 2, 24
+  size: 185, 197
+  orig: 185, 197
+  offset: 0, 0
+  index: -1
+images/Symbol 3
+  rotate: false
+  xy: 2, 9
+  size: 66, 13
+  orig: 66, 13
+  offset: 0, 0
+  index: -1
+images/Symbol 4
+  rotate: true
+  xy: 189, 155
+  size: 66, 13
+  orig: 66, 13
+  offset: 0, 0
+  index: -1
+images/Symbol 5
+  rotate: false
+  xy: 70, 9
+  size: 66, 13
+  orig: 66, 13
+  offset: 0, 0
+  index: -1
+images/Symbol 6
+  rotate: true
+  xy: 189, 87
+  size: 66, 13
+  orig: 66, 13
+  offset: 0, 0
+  index: -1
+images/Symbol 7
+  rotate: false
+  xy: 204, 181
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+images/Symbol 8
+  rotate: true
+  xy: 204, 199
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+images/Symbol 9
+  rotate: false
+  xy: 204, 163
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

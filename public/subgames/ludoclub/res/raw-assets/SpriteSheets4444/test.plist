@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>ludo_logo.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,2}</string>
+                <key>spriteSize</key>
+                <string>{343,307}</string>
+                <key>spriteSourceSize</key>
+                <string>{351,317}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{343,307}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA4444</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>test.webp</string>
+            <key>size</key>
+            <string>{345,309}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:d7cb1d1a29649ada5e8c3db99d374333:a67b117a81084a699ef8e6f1e08527a4:fd2f535d0bb47556a868ddca5b1cef4d$</string>
+            <key>textureFileName</key>
+            <string>test.webp</string>
+        </dict>
+    </dict>
+</plist>

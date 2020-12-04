@@ -1,0 +1,49 @@
+
+.overlay {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  display: block;
+  background: rgba(0, 0, 0, .9);
+  top: 0px;
+  z-index: -100;
+  opacity: 0;
+  transition: all .3s linear 0s;
+}
+
+.gameViewer {
+  width: 100%;
+  height: 100%;
+  max-width: 480px;
+  border: none;
+  background: black;
+  position: fixed;
+  top: 0%;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  z-index: -200;
+  transition: all .3s linear 0s;
+}
+
+.closeGame {
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+  border: 2px solid white;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 10px;
+  opacity: 0;
+  z-index: -201;
+}
+
+.closeGame:hover {
+  background: #d6243f;
+}

@@ -1,0 +1,80 @@
+{
+    "ludoclubhost" : "https://d33719rttp6xkj.cloudfront.net/",
+ 
+    "htmlgames" : [
+
+        "knife",
+        "fatao",
+        "lafao",
+        "tiny cricket",
+        "polygon merge",
+        "go color",
+        "ball jump",
+        "drop block",
+        "animal merge",
+        "word battle"
+
+],
+
+    "androidgames": [
+        {
+            "name": "Jalebi",
+            "pic":"newsite/img/Jalebi.png",
+            "link":"https://play.google.com/store/apps/details?id=com.happyadda.jalebi"
+        },
+
+        {
+            "name": "Alia",
+            "pic":"newsite/img/Alia.png",
+            "link":"https://play.google.com/store/apps/details?id=com.starlife.celeb"
+        },
+
+        {
+            "name": "Cricket",
+            "pic":"newsite/img/Cricket.png",
+            "link":"https://play.google.com/store/apps/details?id=com.moonfrog.cricket"
+        },
+
+        {
+            "name": "Adda",
+            "pic":"newsite/img/Adda.png",
+            "link":"https://play.google.com/store/apps/details?id=com.ulkagames.callbridge"
+        },
+
+        {
+            "name": "29 Gold",
+            "pic":"newsite/img/29-icon.png",
+            "link":"https://play.google.com/store/apps/details?id=com.ulkagames.twentynine"
+        },
+
+        {
+            "name": "Ludo",
+            "pic":"newsite/img/ludo-club.png",
+            "link":"https://play.google.com/store/apps/details?id=com.moonfrog.ludo.club"
+        },
+        {
+                "name": "Hazari Gold",
+                "pic":"newsite/img/Hazari.png",
+                "link":"https://play.google.com/store/apps/details?id=com.ulkagames.hazarigold&hl=en"
+            },
+
+            {
+                "name": "Baahubali",
+                "pic":"newsite/img/baahubali.png",
+                "link":"https://play.google.com/store/apps/details?id=com.bahubali.game"
+            },
+
+            {
+                "name": "Teen Patti",
+                "pic":"newsite/img/tpg.png",
+                "link":"https://play.google.com/store/apps/details?id=com.teenpatti.hd.gold"
+            }
+        
+    ],
+
+    "moonfroggames" : [    {
+        "name": "Taash",
+        "pic":"https://lh3.googleusercontent.com/qa4vGRE2ZLwGzA8UQ6Y_dKMjx5KHoBoIREcVWhDzETXr4ik9HmDg0zaASDqnvBF0Aw=s180-rw",
+        "link":"https://play.google.com/store/apps/details?id=com.ulkagames.callbridge"
+    }]
+}

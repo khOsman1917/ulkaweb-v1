@@ -1,0 +1,14 @@
+{
+  "instant_games": {
+    "platform_version": "RICH_GAMEPLAY",
+    "navigation_menu_version": "NAV_BAR",
+    "custom_update_templates": {
+      "play_turn": {
+        "example": "Edgar played their move"
+      }
+    },
+    "bot": {
+      "subscription_type": "OPT_IN_PUBLIC",
+    }
+  }
+}

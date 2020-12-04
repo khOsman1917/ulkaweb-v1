@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "country_sprite_sheet",
+    "texture": "9ee/no/HVM0rag7uzl7+su",
+    "rect": [
+      0,
+      0,
+      980,
+      1602
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      980,
+      1602
+    ]
+  }
+}

@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#F51F7E">
+
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-147224673-1"></script> -->
+
+    <!-- <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> -->
+    <title>Ulka Games</title>
+</head>
+<html>
+<style>
+    body {
+        background-color: #ffffff;
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        align-content: center;
+    }
+
+    #fullPageDiv {
+        /* position: fixed; */
+        background-image: linear-gradient(#F51F7E, #FFBBD7);
+        width: 100%;
+        height: 100%;
+        /* max-width: 480px;
+        min-height: 720px; */
+        margin-left: auto;
+        margin-top: 0px;
+        margin-right: auto;
+        text-align: center;
+        /* overflow: auto; */
+        align-self: center;
+    }
+
+    #gameListDiv {
+        /* padding: 10px; */
+        /* background-color: #ffffff; */
+        /* position: relative; */
+        /* display: inline-table; */
+        justify-content: center;
+        /* margin: 10px; */
+        border-radius: 10px;
+        /* box-shadow: 0px 3px rgba(0, 0, 0, 0.2); */
+
+
+    }
+
+    #menuDiv {
+        padding-top: 20px;
+        /* background-color: darkgoldenrod; */
+    }
+
+    #backIconDiv {
+        float: left;
+        margin-left: 20px;
+
+    }
+
+    #backIcon {
+        font-size: 30px;
+        color: rgb(255, 255, 255);
+
+        /* padding-left: 50px */
+    }
+
+    #appNameDiv {
+        margin-bottom: 10px;
+
+        /* background-color: aqua; */
+
+    }
+
+    #appNameDiv a:link,
+    #appNameDiv a:visited {
+        /* background-color: #f44336; */
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+
+    #appName {
+
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 30px;
+        /* margin-left: -30px; */
+        color: #ffffff;
+        text-shadow: 0px 3px rgba(0, 0, 0, 0.3);
+
+    }
+
+    #menuLine {
+        border-width: 1px;
+        border-color: rgba(0, 0, 0, 0.212);
+    }
+
+    .gamesDiv {
+        margin: auto;
+        padding-top: 5px;
+
+    }
+
+    .gameIconDiv {
+        width: 100px;
+        height: 100px;
+        padding: 7px;
+        margin: auto;
+    }
+
+    .gameicon {
+        width: 100%;
+        height: auto;
+        border-color: #ffffff;
+        border-radius: 20px;
+        border-width: 3px;
+        border-style: solid;
+        box-shadow: 0px 3px rgba(0, 0, 0, 0.3);
+    }
+
+    .gameicon:hover {
+        border-color: #008b13;
+    }
+
+    .gameName {
+        text-align: center;
+        font-weight: bold;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 15px;
+        color: #ffffff;
+        text-shadow: 0px 3px rgba(0, 0, 0, 0.3);
+        display: none;
+
+    }
+
+
+    #androidGameDiv {
+        width: 340px;
+        height: 190px;
+        margin: auto;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    #androidGame {
+        width: 100%;
+        height: 100%;
+        border-radius: 20px;
+        border-color: #ffffff;
+        border-width: 3px;
+        border-style: solid;
+        border-style: solid;
+        box-shadow: 0px 3px rgba(0, 0, 0, 0.3)
+    }
+
+    #gameView {
+        width: 100%;
+        height: 100%;
+        z-index: 200;
+        /* max-width: 480px;
+        min-height: 560px; */
+        border: none;
+        position: fixed;
+        top: 0%;
+        left: 50%;
+        transform: translateX(-50%);
+        display: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    #CloseButton {
+        width: 50px;
+        height: 50px;
+        z-index: 220;
+        margin: auto;
+        position: fixed;
+        top: 1%;
+        right: -5%;
+        text-align: center;
+        vertical-align: middle;
+        transform: translateX(-50%);
+
+    }
+
+
+
+
+
+    @media only screen and (max-width: 375px) {
+
+        #fullPageDiv {
+            position: fixed;
+            background-image: linear-gradient(#F51F7E, #FFBBD7);
+            width: 100%;
+            height: 100%;
+            /* min-width: 320px;
+            min-height: 710px; */
+            margin-left: auto;
+            margin-top: 0px;
+            margin-right: auto;
+            text-align: center;
+            /* overflow: auto; */
+            align-self: center;
+        }
+
+        /* #gameView {
+        width: 100%;
+        height: 100%;
+        z-index: 200;
+        min-width: 320px;
+        min-height: 710px;
+        border: none;
+        position: fixed;
+        top: 0%;
+        left: 50%;
+        transform: translateX(-50%);
+        display: none;
+    } */
+
+
+        #androidGameDiv {
+            width: 280px;
+            height: 150px;
+            margin: auto;
+            padding-top: 5px;
+            padding-bottom: 15px;
+        }
+
+        .gameIconDiv {
+            width: 80px;
+            height: 80px;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 0px;
+            padding-bottom: 10px;
+            margin: auto;
+        }
+
+    }
+
+    @media only screen and (max-width: 320px) {
+        #androidGameDiv {
+            width: 280px;
+            height: 150px;
+            margin: auto;
+            padding-top: 5px;
+            padding-bottom: 15px;
+        }
+    }
+</style>
+
+<body>
+    <div id="fullPageDiv">
+
+        <div id="menuDiv">
+            <div id="backIconDiv">
+                <!-- <i class="material-icons" id="backIcon">arrow_back</i> -->
+            </div>
+            <div id="appNameDiv"  onclick="AnalyticsFunction('home_page')">
+                <a href="https://www.ulka.games"><strong id="appName">Ulka Games</strong></a>
+
+            </div>
+
+            <div id="ulkaIcon">
+                <hr id="menuLine">
+            </div>
+
+        </div>
+        <div id="gameListDiv">
+
+
+
+            <table class="gamesDiv">
+                <tr>
+                    <td>
+                        <div class="gameIconDiv" onclick="gamePlay(0)"> <img class="gameicon"
+                                src="https://ulka.games/bKash/ludo-club.png" /> </div>
+                    </td>
+                    <td>
+                        <div class="gameIconDiv" onclick="gamePlay(1)"> <img class="gameicon"
+                                src="https://ulka.games/bKash/knife.png" /> </div>
+                    </td>
+                    <td>
+                        <div class="gameIconDiv" onclick="gamePlay(2)"> <img class="gameicon"
+                                src="https://ulka.games/bKash/fatao.png" /> </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong class="gameName">LUDO CLUB</strong>
+                    </td>
+                    <td>
+                        <strong class="gameName">KNIFE</strong>
+                    </td>
+                    <td>
+                        <strong class="gameName">FATAO</strong>
+                    </td>
+                </tr>
+            </table>
+
+
+            <table class="gamesDiv">
+                <tr>
+                    <td>
+                        <div class="gameIconDiv" onclick="gamePlay(3)"> <img class="gameicon"
+                                src="https://ulka.games/bKash/Lafao.png" /> </div>
+                    </td>
+                    <td>
+                        <div class="gameIconDiv" onclick="gamePlay(4)"> <img class="gameicon"
+                                src="https://ulka.games/bKash/tiny-cricket.png" /> </div>
+                    </td>
+                    <td>
+                        <div class="gameIconDiv" onclick="gamePlay(5)"> <img class="gameicon"
+                                src="https://ulka.games/bKash/polygon-merge.png" /> </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong class="gameName">LAFAO</strong>
+                    </td>
+                    <td>
+                        <strong class="gameName">CRICKET</strong>
+                    </td>
+                    <td>
+                        <strong class="gameName">MERGE</strong>
+                    </td>
+                </tr>
+            </table>
+
+            <div id="androidGameDiv" onclick="AnalyticsFunction('play_store')">
+                <a href="https://play.google.com/store/apps/details?id=com.UlkaGames.sixteenbeads"><img id="androidGame"
+                        src="https://ulka.games/bKash/android.png"></a>
+
+            </div>
+
+            <table class="gamesDiv">
+                <tr>
+                    <td>
+                        <div class="gameIconDiv" onclick="gamePlay(6)"> <img class="gameicon"
+                                src="https://ulka.games/bKash/go-color.png" /> </div>
+                    </td>
+                    <td>
+                        <div class="gameIconDiv" onclick="gamePlay(7)"> <img class="gameicon"
+                                src="https://ulka.games/bKash/Ball-jump.png" /> </div>
+                    </td>
+                    <td>
+                        <div class="gameIconDiv" onclick="gamePlay(8)"> <img class="gameicon"
+                                src="https://ulka.games/bKash/drop-block.png" /> </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong class="gameName">GO COLOR</strong>
+                    </td>
+                    <td>
+                        <strong class="gameName">BALL JUMP</strong>
+                    </td>
+                    <td>
+                        <strong class="gameName">DROP BLOCK</strong>
+                    </td>
+                </tr>
+            </table>
+
+
+
+        </div>
+
+
+
+    </div>
+
+    <iframe id="gameView" src=""></iframe>
+
+    <!-- <div id="CloseButtonDiv" style="width: 100px; height: 100px; color: cadetblue"   onclick="gameEnd()"> -->
+
+    <img id="CloseButton" src="https://ulka.games/bKash/close.png" onclick="gameEnd()">
+    <!-- </div> -->
+
+</body>
+<script>
+
+    // window.dataLayer = window.dataLayer || [];
+    // function gtag() { dataLayer.push(arguments); }
+    // gtag('js', new Date());
+
+    // gtag('config', 'UA-147224673-1');
+
+    (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-147224673-1', 'auto');
+            ga('send', 'pageview');
+
+    let gameActive = false;
+
+    let gameView = document.getElementById('gameView');
+    let close_Button = document.getElementById('CloseButton');
+
+    close_Button.style.display = "none";
+    let gameLinkList = [
+        "https://d33719rttp6xkj.cloudfront.net/",
+        "https://ulka.games/subgames/knife/index.html",
+        "https://ulka.games/subgames/fatao/index.html",
+
+        "https://ulka.games/subgames/lafao/index.html",
+        "https://ulka.games/subgames/tiny%20cricket/index.html",
+        "https://ulka.games/subgames/polygon%20merge/index.html",
+
+        "https://ulka.games/subgames/go%20color/index.html",
+        "https://ulka.games/subgames/ball%20jump/index.html",
+        "https://ulka.games/subgames/drop%20block/index.html"
+    ];
+
+    let gameNameList = ["LudoClub", "Knife", "Fatao","lafao", "tinyCricket", "polygonMerge", "goColor", "ballJump", "dropBlock"]
+   
+    function gamePlay(gameIndex) {
+
+        gameView.src = gameLinkList[gameIndex];
+
+        gameView.style.display = "block";
+        close_Button.style.display = "block";
+
+
+        AnalyticsFunction(gameNameList[gameIndex]);
+
+        gameActive = true;
+        console.log("gamePlay : " + gameActive);
+
+    }
+
+    function gameEnd() {
+        gameView.src = "";
+        gameView.style.display = "none";
+        close_Button.style.display = "none";
+        //   console.log("gameEnd");
+        gameActive = false
+        console.log("gamePlay : " + gameActive);
+    }
+
+
+    function AnalyticsFunction(data) {
+
+        ga('send', 'event','bKash_'+data);
+
+
+        console.log("analy: " + 'bKash_'+data);
+
+    }
+
+    gameView.onload  = () => { 
+        if(!gameActive)
+        {
+        console.log("gamePlay : " + gameActive);
+          gameView.style.display = "none";
+         close_Button.style.display = "none";
+        }
+    };
+
+
+
+
+
+
+</script>
+
+
+</html>
